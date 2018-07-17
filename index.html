@@ -2,7 +2,7 @@
 layout: default
 home-title: 阿金的小船
 description: 能酾酒临江 能浮梁贩茶 能枕藉舟中 能逐流追花 期待你的到来
-header-img: /assets/img/ship1.jpg
+header-img: /assets/img/ship0.jpg
 ---
 
 {% include header.html %}
@@ -12,7 +12,8 @@ header-img: /assets/img/ship1.jpg
     <h2 style="color: rgb(135, 135, 197, 0.8)">{{ page.home-title }}</h2>
     <h3 style="color: rgb(135, 135, 197, 0.8)">{{ page.description }}</h3>
     {% if page.header-img %}
-    <img class="header-img" src="{{ page.header-img | prepend: site.baseurl }}" alt="">
+    <img class="header-img" style="top: 50%; margin-top: -432px;" src="{{ page.header-img | prepend: site.baseurl }}" alt="">
+    
     {% endif %}
 </div>
 
