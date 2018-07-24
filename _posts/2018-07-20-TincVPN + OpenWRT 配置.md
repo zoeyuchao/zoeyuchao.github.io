@@ -12,7 +12,7 @@ tags: 嵌入式
 # 任务目标
 
 项目构成图如下所示，
-![poster]({{site.url}}/post_img/2018-07-20/struct.png "struct")
+![poster](/post_img/2018-07-20/struct.png "struct")
 
 硬盘录像机接在路由器a上，摄像头接在路由器b上，路由器a在控制室里，路由器b为上篇文章中配置的4G网络路由器，利用4G网路接入，分布在田间地头。
 
