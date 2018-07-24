@@ -29,18 +29,14 @@
     {% endif %}
   </header>
 
-  <div id="toc" style="
-    float: left;
-    width: 300px;
-  "></div>
-
+ 
   <div class="post-content visible" >
     {% if page.subtitle %}
     <h2 class="post-subtitle">{{ page.subtitle }}</h2>
     {% endif %}
 
-    
-
+    <aside id="toc" style="float: left; border:2px solid darkcyan; box-shadow: #666 0px 0px 10px;
+    background:aqua"></aside>
     <article class="markdown-body" >
       {{ page.content }}
     </article>
@@ -85,7 +81,7 @@
         <div class="filter"></div>
         <img src="{{ page.next.cover }}" alt="">
         {% endif %}
-     </div>
+    </div>
       {% endif %}
 
       {% if page.previous.url %}
@@ -106,6 +102,7 @@
       <div id="disqus_thread"></div>
     </section>
   </section>
+
 
   {% include footer.html %}
 
