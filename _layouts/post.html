@@ -71,6 +71,7 @@
     </section>
     <section class="post-footer-item read-next">
       {% if page.next.url %}
+      <div> 下一篇 </div>
       <div class="read-next-item">
         <a href="{{ page.next.url }}" class="read-next-link"></a>
         <section>
@@ -85,6 +86,7 @@
       {% endif %}
 
       {% if page.previous.url %}
+      <div> 上一篇 </div>
       <div class="read-next-item">
         <a href="{{ page.previous.url }}" class="read-next-link"></a>
           <section>
