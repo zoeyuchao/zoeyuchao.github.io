@@ -3,7 +3,7 @@ layout: post
 title: TincVPN + OpenWRT 配置
 date: 2018-07-20
 author: 阿金
-cover: https://www.tinc-vpn.org/images/tinclogo.svg
+cover: https://www.tinc-vpn.org/images/tinclogo.png
 tags: 嵌入式
 ---
 
