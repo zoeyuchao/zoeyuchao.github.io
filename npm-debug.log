@@ -7126,8 +7126,8 @@
 11328 silly gunzTarPerm extractEntry build/prefix-utils.jsm
 11329 silly gunzTarPerm extractEntry images/hawk.png
 11330 silly gunzTarPerm modified mode [ 'images/hawk.png', 509, 493 ]
-11331 silly gunzTarPerm extractEntry images/logo.png
-11332 silly gunzTarPerm modified mode [ 'images/logo.png', 509, 493 ]
+11331 silly gunzTarPerm extractEntry images/logo.svg
+11332 silly gunzTarPerm modified mode [ 'images/logo.svg', 509, 493 ]
 11333 silly gunzTarPerm extractEntry not-in-install.js
 11334 silly gunzTarPerm extractEntry not-in-publish.js
 11335 silly gunzTarPerm extractEntry lib/store.js
