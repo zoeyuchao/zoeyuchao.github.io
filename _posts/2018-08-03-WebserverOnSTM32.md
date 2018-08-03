@@ -23,9 +23,9 @@ tags: 嵌入式
 
 ```shell
     git clone https://git.coding.net/yujincheng/STM32F7_UCOS_LWIP.git
+    cd STM32F7_UCOS_LWIP
+    git checkout 9d4963a540c6baac4eec614c00b598d9878e7685
 ```
-
-之后进入 STM32F7_UCOS_LWIP 文件夹。
 
 用 keil 打开 USER//NETWORK.uvprojx 文件。
 
