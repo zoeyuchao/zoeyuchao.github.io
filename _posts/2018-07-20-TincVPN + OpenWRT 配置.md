@@ -26,14 +26,14 @@ tags: 嵌入式
 
 在 openwrt 上，使用包管理软件对程序进行安装。在本次应用过程中，我们采用源码编译的模式进行安装，通过配置 ```make menuconfig -> network -> VPN -> tinc 实现```。
 
-```shell
+```Shell
 opkg update
 opkg install tinc
 ```
 
 在 ubuntu上，也可以使用包管理程序进行安装。
 
-```shell
+```Shell
 sudo apt-get update
 sudo apt-get install tinc
 ```

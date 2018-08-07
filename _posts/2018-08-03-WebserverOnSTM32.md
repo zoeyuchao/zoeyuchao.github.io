@@ -21,7 +21,7 @@ tags: 嵌入式
 
 整个项目托管在 coding.net 上。可以通过git clone 获取。
 
-```shell
+```git
     git clone https://git.coding.net/yujincheng/STM32F7_UCOS_LWIP.git
     cd STM32F7_UCOS_LWIP
     git checkout 9d4963a540c6baac4eec614c00b598d9878e7685
@@ -49,8 +49,7 @@ shtml 语法和 html 很像。基于SSI（Server Side Include，服务器端嵌�
 
 在 LWIP\lwip_app\web_server_demo\makefsdata\fs\index.shtml 文件中，可以看到服务器端嵌入的用法。例如：文件第 31和 第36行。对应代码段的第3 和 第8 行。
 
-```html
-
+```shtml
   <p>
   测试显示内存字符
   <!--#0-->
@@ -60,7 +59,6 @@ shtml 语法和 html 很像。基于SSI（Server Side Include，服务器端嵌�
   测试显示输入后回显示
   <!--#1-->
   </p>
-
 ```
 
 ```<!--#0-->```和```<!--#1-->``` 表示服务器在这里需要嵌入内容。标记为'0'和'1'
@@ -74,8 +72,7 @@ shtml 语法和 html 很像。基于SSI（Server Side Include，服务器端嵌�
 
 在 LWIP\lwip_app\web_server_demo\makefsdata\fs\index.shtml 中，第 14 和 第 22 行，下面代码段的第3 和 第10行，指定了表单需要被如何处理。两个表单分别被 ```leds.cgi``` 和 ```ip.cgi``` 处理。
 
-```html
-
+```shtml
 <p>
   测试表单 form_buttom
   <form method="get" action="/leds.cgi">
@@ -92,7 +89,6 @@ shtml 语法和 html 很像。基于SSI（Server Side Include，服务器端嵌�
    <input type="submit" value="IP">
   </form>
   </p>
-
 ```
 
 在后端部分，会设置这两个 cig 文件的关联函数。
