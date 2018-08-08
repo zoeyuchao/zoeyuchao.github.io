@@ -104,7 +104,7 @@
       <div id="disqus_thread"></div>
       <!-- 来必力City版安装代码 -->
       {% if site.comments.livere %}
-      <div> 评论与讨论: </div>
+      <div> 来必力评论系统: </div>
       <div id="lv-container" data-id="city" data-uid="MTAyMC8zODUyOS8xNTA1Nw==">
         <script type="text/javascript">
         (function(d, s) {
@@ -121,7 +121,21 @@
         </script>
       </div>
       {% endif %}
+      
       <!-- City版安装代码已完成 -->
+      <div> Valine 评论系统 </div>
+      <div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'AOkHKFTOG6CPCExezqULQQDQ-gzGzoHsz',
+            appKey: 'VhJPKyC0UxCmooD0kQmqdQfa',
+            notify:false, 
+            verify:false, 
+            avatar:'mm', 
+            placeholder: 'just go go' 
+        });
+    </script>
     </section>
   </section>
 
