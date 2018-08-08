@@ -120,9 +120,10 @@
         })(document, 'script');
         </script>
       </div>
+      <!-- City版安装代码已完成 -->
       {% endif %}
       
-      <!-- City版安装代码已完成 -->
+      {% if site.comments.valine %}
       <div> Valine 评论系统 </div>
       <div id="vcomments"></div>
     <script>
@@ -136,6 +137,7 @@
             placeholder: 'just go go' 
         });
     </script>
+    {% endif %}
     </section>
   </section>
 
