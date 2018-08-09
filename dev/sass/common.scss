@@ -113,14 +113,14 @@
     h2 {
         padding-top: 190px;
         line-height: 38px;
-        font-size: 60px;
+        font-size: 40px;
         font-family: 'Arial', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
         font-weight: bold;
         letter-spacing: 2px;
         line-height: 52px;
     }
     h3 {
-        font-size: 40px;
+        font-size: 30px;
         font-weight: normal;
         letter-spacing: 10px;
         margin-top: 8px;
@@ -365,11 +365,32 @@
             background-color: #EEF0F4;
         }
     }
+    .page-link2 {
+        display: block;
+        float: left;
+        width: 34px;
+        height: 34px;
+        margin: 6px;
+        font-size: 16px;
+        color: #A9B0BC;
+        line-height: 34px;
+        text-align: center;
+        border-radius: 2px;
+        cursor: pointer;
+        &:hover {
+            color: #8F98AA;
+            background-color: #EEF0F4;
+        }
+    }
     .active {
         color: #8F98AA;
         background-color: #EEF0F4;
     }
     #page-link-container {
+        display: inline-block;
+        float: left;
+    }
+    #page-link-container2 {
         display: inline-block;
         float: left;
     }
@@ -782,6 +803,11 @@
 
     .pagination {
         .page-link{
+            &:hover {
+                background-color: rgba(255, 255, 255, .1);
+            }
+        }
+        .page-link2{
             &:hover {
                 background-color: rgba(255, 255, 255, .1);
             }

@@ -141,6 +141,29 @@ $(document).ready(function(){
     }
     pagination();
 
+    
+    /**
+     * Pagination
+     */
+    function pagination2() {
+        var total = parseInt($('#total_pages').val());
+        var current = parseInt($('#current_pages').val());
+        var baseUrl = $('#base_url').val();
+        var limit = 3;
+
+        var link_html = '';
+
+        for (var j = 0; j <= 0; j++) {
+                link_html += '<span class="page-link2 active">' + '&nbsp' + '</span>';
+        }
+        link_html += '<span class="page-link2 active">' + '/' + '</span>';
+        link_html += '<a href="/page/' + total + '" class="page-link2 active">' + total + '</a>';
+
+
+        $('#page-link-container2').html(link_html);
+    }
+    pagination2();
+
     /**
      * Search
      */

@@ -14,6 +14,7 @@
         {% if paginator.next_page %}
         <a href="/page{{ paginator.next_page }}/" class="page-link">&raquo;</a>
         {% endif %}
-        <a href="/page{{ paginator.total_pages }}/" class="page-link">T {{ paginator.total_pages }}</a>
+        <div id="page-link-container2"></div>
+        <!-- <a href="/page{{ paginator.total_pages }}/" class="page-link2">T {{ paginator.total_pages }}</a> -->
     </div>
 </nav>
