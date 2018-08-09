@@ -153,11 +153,12 @@ $(document).ready(function(){
 
         var link_html = '';
 
-        for (var j = 0; j <= 0; j++) {
-                link_html += '<span class="page-link2 active">' + '&nbsp' + '</span>';
-        }
-        link_html += '<span class="page-link2 active">' + '/' + '</span>';
-        link_html += '<a href="/page/' + total + '" class="page-link2 active">' + total + '</a>';
+        // for (var j = 0; j <= 0; j++) {
+        //         link_html += '<span class="page-link2 active">' + '&nbsp' + '</span>';
+        // }
+        // link_html += '<span class="page-link2 active">' + '/' + '</span>';
+        link_html += '<span class="page-link2 active">' + 'of' + '</span>';
+        link_html += '<a href="/page' + total + '/ " class="page-link2">' + total + '</a>';
 
 
         $('#page-link-container2').html(link_html);
