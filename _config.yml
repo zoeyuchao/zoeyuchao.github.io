@@ -11,6 +11,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
+  _: '/ruiyan.html'
 
 # Footer
 footer:
