@@ -43,7 +43,7 @@ conda install caffe matplotlib pydot graphviz #安装依赖库
 pip install graphviz
 ```
 
-一定需要在conda 虚拟环境 pth4 中运行指令 ``` pip graphviz ``` 来安装 graphviz 库。
+一定需要在conda 虚拟环境 pytorch2caffe 中运行指令 ``` pip graphviz ``` 来安装 graphviz 库。
 
 之后，就可以运行啦。
 
