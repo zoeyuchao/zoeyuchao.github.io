@@ -28,7 +28,7 @@ tags: 技术 调试笔记
 2. 然后修改 caffe 的 makefile
     修改过后（左<）和修改之前的
 
-    ```
+    ```text
     42c42
     < COMMON_FLAGS += -DCAFFE_VERSION=$(DYNAMIC_VERSION_MAJOR).$(DYNAMIC_VERSION_MINOR).$(DYNAMIC_VERSION_REVISION) -std=c++11
     ---
@@ -51,7 +51,7 @@ tags: 技术 调试笔记
 
 3. 修改 caffe 的 makefile.config
     修改过后（左<）和修改之前的
-    ```
+    ```text
     23c23
     < OPENCV_VERSION := 3
     ---
@@ -129,7 +129,7 @@ tags: 技术 调试笔记
 
     10. 112 行增加 ```LINKFLAGS := -Wl,-rpath,$(HOME)/anaconda3/lib```
         如果不加，会在python中```import caffe```是出现如下错误：
-        ```
+        ```text
         Traceback (most recent call last):
         File "<stdin>", line 1, in <module>
         File "/home/gaof/caffe-master/python/caffe/__init__.py", line 1, in <module>
@@ -141,7 +141,7 @@ tags: 技术 调试笔记
 
 ## 关于protobuf
 
-```
+```text
 PROTOC src/caffe/proto/caffe.proto
 CXX .build_release/src/caffe/proto/caffe.pb.cc
 In file included from .build_release/src/caffe/proto/caffe.pb.cc:4:0:
