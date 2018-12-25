@@ -3,7 +3,7 @@ layout: post
 title: caffe与conda共同安装
 date: 2018-12-21
 author: 阿金
-tags: 讲座
+tags: 技术 调试笔记
 ---
 
 # caffe与conda共同安装
