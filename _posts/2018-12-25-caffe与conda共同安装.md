@@ -102,7 +102,7 @@ tags: 技术 调试笔记
     > INCLUDE_DIRS := $(PYTHON_INCLUDE) /usr/local/include
     > LIBRARY_DIRS := $(PYTHON_LIB) /usr/local/lib /usr/lib
     112c115
-    < LINKFLAGS := -Wl,-rpath,$(ANACONDA_HOME)/anaconda3/lib
+    < LINKFLAGS := -Wl,-rpath,$(ANACONDA_HOME)/lib
     ---
     >
     ```
