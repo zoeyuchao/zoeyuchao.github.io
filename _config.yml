@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: '阿金的小船'
-description: '一艘乌篷船，能酾酒临江，能浮梁贩茶，能枕藉舟中，能逐流追花。期待有人能上船。'
-keyword: '阿金的博客，段子手，FPGA，机器学习'
-url: 'http://yujincheng.github.io' # your host
+title: '于超的博客'
+description: '毕业顺利~'
+keyword: 'SLAM, ROBOT'
+url: 'http://zoeyuchao.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -15,12 +15,12 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2019
 
 # Author 配置博主信息
-author: '阿金'
+author: 'zoeyuchao'
 nickname: ''
-bio: '但行好事，不问前程的过路人'
+bio: '毕业快乐~'
 avatar: '/assets/img/profile.jpg'
 
 # Search
@@ -32,10 +32,10 @@ nightMode: true
 # Comments 评论功能
 comments:
   disqus: false
-  disqus_url: 'https://host1.yujincheng.me/embed.js'
+  #disqus_url: 'https://host1.yujincheng.me/embed.js'
   # disqus_url: 'https://yujincheng.disqus.com/embed.js'
-  livere: true
-  valine: true
+  livere: false 
+  valine: false
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
