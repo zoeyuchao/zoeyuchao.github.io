@@ -1,23 +1,22 @@
 ---
 layout: default
-home-title: 于超的博客 
-description: 顺利毕业~
-header-img: /assets/img/ship0.jpg
+home-title: Blog of Zoe 
+description: Life sucks when you're ordinary~
+header-img: /assets/img/tsinghua.jpg
 ---
 
 {% include header.html %}
 
 <!-- <div class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}" data-theme="{{ site.theme-color }}"> -->
-<div class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}" data-theme="{{ site.theme-color }}">
-    <h2 style="color:deepskyblue">{{ page.home-title }}</h2>
-    <h3 style="color:deepskyblue">{{ page.description }}</h3>
-    <!-- <h2>{{ page.home-title }}</h2>
-    <h3>{{ page.description }}</h3> -->
-    {% if page.header-img %}
-    <img class="header-img" src="{{ page.header-img | prepend: site.baseurl }}" alt="">
-    
-    {% endif %}
-</div>
+    <div class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}" data-theme="{{ site.theme-color }}">
+        <h2 style="color:rgb(255, 255, 255)">{{ page.home-title }}</h2>
+        <h3 style="color:rgb(255, 255, 255)">{{ page.description }}</h3>
+        <!-- <h2>{{ page.home-title }}</h2>
+        <h3>{{ page.description }}</h3> -->
+        {% if page.header-img %}
+        <img class="header-img" src="{{ page.header-img | prepend: site.baseurl }}" alt="">       
+        {% endif %}
+    </div>
 
 <main class="g-container home-content">
     <div class="article-list">

@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '于超的博客'
-description: '毕业顺利~'
-keyword: 'SLAM, ROBOT'
+title: 'Blog of Zoe'
+description: 'Welcome to my blog~'
+keyword: 'SLAM, Robot, Deep learning'
 url: 'http://zoeyuchao.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -9,43 +9,43 @@ baseurl: ''
 
 # Navigation links
 nav:
-  home: '/'
-  tags: '/tags.html'
-  _: '/ruiyan.html'
+  HOME: '/'
+  CONTENTS: '/tags.html'
 
 # Footer
 footer:
   since: 2019
 
 # Author 配置博主信息
-author: 'zoeyuchao'
-nickname: ''
-bio: '毕业快乐~'
+author: '于超(Chao Yu)'
+nickname: 'zoeyuchao'
+bio: 'PhD of Tsinghua University'
 avatar: '/assets/img/profile.jpg'
 
 # Search
 search: true
 
 # Night mode
-nightMode: true
+nightMode: false
 
 # Comments 评论功能
 comments:
-  disqus: false
+  disqus: true
   #disqus_url: 'https://host1.yujincheng.me/embed.js'
-  # disqus_url: 'https://yujincheng.disqus.com/embed.js'
-  livere: false 
-  valine: false
+  disqus_url: 'https://zoeyuchao.disqus.com/embed.js'
+  #livere: true 
+  #valine: true
+  disqus_username: zoeyuchao
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo']
+social-share-items: ['wechat', 'weibo','douban','twitter']
 
 # theme color 主题皮肤
-theme-color: 'default'  # pink or default
+theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'circuitBoard'
@@ -56,7 +56,9 @@ sns:
   # weibo: '//weibo.com/lovecolcol'
   # juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   # instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/yujincheng'
+  github: '//github.com/zoeyuchao'
+  zhihu: '//www.zhihu.com/people/yu-chao-22-97-8/activities'
+  weibo: '//weibo.com/p/1005053585123635/home?from=page_100505&mod=TAB&is_all=1#place'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
