@@ -11,13 +11,14 @@ baseurl: ''
 nav:
   HOME: '/'
   TAGS: '/tags.html'
+  RESUME: '/resume.html'
 
 # Footer
 footer:
   since: 2019
 
 # Author 配置博主信息
-author: '于超(Chao Yu)'
+author: 'Chao Yu'
 nickname: 'zoeyuchao'
 bio: 'PhD of Tsinghua University'
 avatar: '/assets/img/profile.jpg'

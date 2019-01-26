@@ -2,7 +2,7 @@
 layout: post
 title: PyTorch在ARM上的安装
 date: 2019-01-02
-author: 余老板
+author: JC Yu
 tags: Tools
 ---
 

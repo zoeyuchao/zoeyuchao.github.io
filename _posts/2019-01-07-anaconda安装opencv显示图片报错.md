@@ -2,8 +2,8 @@
 layout: post
 title: Anaconda安装opencv显示图片报错
 date: 2019-01-07
-author: 余老板
-tags: 调试笔记
+author: JC Yu
+tags: notebook
 ---
 
 # Anaconda安装opencv显示图片报错

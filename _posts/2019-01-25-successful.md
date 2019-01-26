@@ -4,7 +4,7 @@ title: Save "How to be successful"
 date: 2019-01-25
 author: zoeyuchao
 cover: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1549030847&di=a3956fbfa978544189231b6d21cd2698&imgtype=jpg&er=1&src=http%3A%2F%2Fpixfeeds.com%2Fimages%2Ftopic%2F4466%2F1200-4466-success-photo3.jpg
-tags: 鸡汤文
+tags: article
 ---
 # How to be successful
 I’ve observed thousands of founders and thought a lot about what it takes to make a huge amount of money or to create something important. Usually, people start off wanting the former and end up wanting the latter.
