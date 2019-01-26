@@ -56,6 +56,7 @@ sns:
   github: '//github.com/zoeyuchao'
   zhihu: '//www.zhihu.com/people/yu-chao-22-97-8/activities'
   weibo: '//weibo.com/p/1005053585123635/home?from=page_100505&mod=TAB&is_all=1#place'
+  facebook: 'https://www.facebook.com/profile.php?id=100033249199511'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
