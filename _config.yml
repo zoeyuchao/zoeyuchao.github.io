@@ -10,7 +10,7 @@ baseurl: ''
 # Navigation links
 nav:
   HOME: '/'
-  CONTENTS: '/tags.html'
+  TAGS: '/tags.html'
 
 # Footer
 footer:
