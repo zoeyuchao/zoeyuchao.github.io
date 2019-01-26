@@ -3,7 +3,7 @@ layout: post
 title: PyTorch在ARM上的安装
 date: 2019-01-02
 author: JC Yu
-tags: Tools
+tags: tools
 ---
 
 # PyTorch在ARM上的安装
