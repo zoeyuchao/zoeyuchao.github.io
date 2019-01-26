@@ -1,5 +1,3 @@
-# 于超的博客
+# Blog of Chao Yu
 
-博客访问请戳[https://zoeyuchao.github.io/](https://zoeyuchao.github.io/)
-
-模板来自H2O，[原始模板](https://github.com/kaeyleo/jekyll-theme-H2O)
+Here is the link.[https://zoeyuchao.github.io/](https://zoeyuchao.github.io/),inspired by [H2O][https://github.com/kaeyleo/jekyll-theme-H2O].
