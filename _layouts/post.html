@@ -35,8 +35,8 @@
     <h2 class="post-subtitle">{{ page.subtitle }}</h2>
     {% endif %}
 
-    <aside id="toc" style="float: left; border:2px solid darkcyan; box-shadow: #666 0px 0px 10px;
-    background:aqua"></aside>
+    <aside id="toc" style="float: left; border:2px solid rgb(0, 0, 0); box-shadow: darkcyan 0px 0px 10px;
+    background:rgb(200, 200, 200)"></aside>
     <article class="markdown-body" >
       {{ page.content }}
     </article>
@@ -71,7 +71,7 @@
     </section>
     <section class="post-footer-item read-next">
       {% if page.next.url %}
-      <div> 下一篇 </div>
+      <div> Before: </div>
       <div class="read-next-item">
         <a href="{{ page.next.url }}" class="read-next-link"></a>
         <section>
@@ -86,7 +86,7 @@
       {% endif %}
 
       {% if page.previous.url %}
-      <div> 上一篇 </div>
+      <div> Next: </div>
       <div class="read-next-item">
         <a href="{{ page.previous.url }}" class="read-next-link"></a>
           <section>

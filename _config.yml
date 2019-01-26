@@ -31,10 +31,7 @@ nightMode: true
 # Comments 评论功能
 comments:
   disqus: true
-  #disqus_url: 'https://host1.yujincheng.me/embed.js'
   disqus_url: 'https://zoeyuchao.disqus.com/embed.js'
-  #livere: true 
-  #valine: true
   disqus_username: zoeyuchao
 
 # MathJax 公式支持 by Ray-Eldath
