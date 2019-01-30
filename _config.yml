@@ -12,7 +12,6 @@ nav:
   HOME: '/'
   TAGS: '/tags.html'
   RESUME: '/resume.html'
-  ABOUT: '/about.html'
 
 # Footer
 footer:
