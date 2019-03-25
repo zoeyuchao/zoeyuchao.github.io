@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'Blog of Chao Yu'
 description: 'Welcome to my blog~'
-keyword: 'SLAM, Robot, Deep learning'
+keyword: 'SLAM, Robot, Deep learning, Multi-agent'
 url: 'http://zoeyuchao.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -11,7 +11,7 @@ baseurl: ''
 nav:
   HOME: '/'
   TAGS: '/tags.html'
-  RESUME: '/resume.html'
+  ABOUT: '/404.html'
 
 # Footer
 footer:
