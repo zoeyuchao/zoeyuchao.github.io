@@ -54,7 +54,7 @@ https://api.slack.com/incoming-webhooks#create_a_webhook 在这个链接里把�
 ```text
 from knockknock import slack_sender
 
-webhook_url = "https://hooks.slack.com/services/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"
+webhook_url = "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX"
 @slack_sender(webhook_url=webhook_url, channel="train", user_mentions=["zoeyuchao"])
 def train_your_nicest_model(your_nicest_parameters):
     import time
