@@ -30,11 +30,11 @@ conda install -c victorsanh knockknock
 
 现在有三种设置通知的方式：邮件、 Slack、telegram。显然邮件会是我采用的方式，然而没网的时候不大好使，搞了个slack试一下。
 
-**邮件**
+**1.邮件**
 
 邮件服务要依赖 Yagmail，这是一个 GMAIL/SMTP 客户端。你需要一个 gmail 邮件地址来使用它。最好创建一个新的邮件地址（不要使用常用地址），因为你需要修改账户的安全设置，以允许该 Python 库打开不太安全的 APP（选中 Allow less secure apps）进而访问它。
 
-```text
+```Shell
 from knockknock import email_sender
 @email_sender(recipient_email: "<your_email@address.com>", sender_email: "<grandma's_email@gmail.com>")def train_your_nicest_model(your_nicest_parameters):
     import time
@@ -45,13 +45,13 @@ from knockknock import email_sender
 
 注意，启用此功能会向你询问发件人的邮箱密码。密码将通过 keyring Python 库被安全地存储在系统 keyring 服务中。
 
-**Slack**
+**2.Slack**
 
 你还可以使用 slack 来获取通知。你必须提交 Slack 房间的 webhook URL 和用户 id（用户 id 为可选项，如果你想添加自己或其他人则选择该项）
 
 https://api.slack.com/incoming-webhooks#create_a_webhook 在这个链接里把自己需要的channel授权，会生成新的url
 
-```text
+```Shell
 from knockknock import slack_sender
 
 webhook_url = "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX"
