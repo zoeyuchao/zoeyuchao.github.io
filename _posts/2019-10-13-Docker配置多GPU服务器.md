@@ -158,9 +158,11 @@ cd /home
 vim startup.sh
 ```
 
-*#!/bin/bash*
-*service ssh start*
-*/bin/bash*
+```
+#!/bin/bash
+service ssh start
+/bin/bash
+```
 
 ```Shell
 chmod 777 startup.sh
@@ -183,7 +185,7 @@ docker commit oldname newname
 然后从这个images重新启动一个容器
 
 ```Shell
-nvidia-docker run -dit -p 2502:22--privileged --name=demo -h=thudrone ubuntu-base /bin/bash
+nvidia-docker run -dit -p 2502:22 --privileged --user=demo --shm-size=2G --name=test -h=thudrone ubuntu-ros-ssh /bin/bash
 ```
 
 之后就可以远程登录了，ip是主机ip，-p写一个2502，会遇到X11 forwarding request failed on channel 0的错误，解决方案是
@@ -196,5 +198,11 @@ nvidia-docker run -dit -p 2502:22--privileged --name=demo -h=thudrone ubuntu-bas
 
 ```Shell
 /etc/init.d/ssh restart  
+```
+
+## 4.开启所有容器
+
+```
+nvidia-docker start $(docker ps -a | awk '{ print $1}' | tail -n +2)
 ```
 
