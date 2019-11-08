@@ -185,7 +185,7 @@ docker commit oldname newname
 然后从这个images重新启动一个容器
 
 ```Shell
-nvidia-docker run -dit -p 2502:22 --privileged --user=demo --shm-size=2G --name=test -h=thudrone ubuntu-ros-ssh /bin/bash
+nvidia-docker run -dit -p 2502:22 --privileged --user=demo --shm-size=2G -e DISPLAY=:10.0 --name=test -h=thudrone ubuntu-ros-ssh /bin/bash
 ```
 
 之后就可以远程登录了，ip是主机ip，-p写一个2502，会遇到X11 forwarding request failed on channel 0的错误，解决方案是
