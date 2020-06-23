@@ -55,9 +55,9 @@ sns:
   # juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   # instagram: '//www.instagram.com/steveliaocn'
   github: '//github.com/zoeyuchao'
-  zhihu: '//www.zhihu.com/people/yu-chao-22-97-8/activities'
-  weibo: '//weibo.com/p/1005053585123635/home?from=page_100505&mod=TAB&is_all=1#place'
-  facebook: 'https://www.facebook.com/profile.php?id=100033249199511'
+  #zhihu: '//www.zhihu.com/people/yu-chao-22-97-8/activities'
+  #weibo: '//weibo.com/p/1005053585123635/home?from=page_100505&mod=TAB&is_all=1#place'
+  #facebook: 'https://www.facebook.com/profile.php?id=100033249199511'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
