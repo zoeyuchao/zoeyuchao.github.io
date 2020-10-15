@@ -28,7 +28,7 @@ pip install wandb
 
 这一步为什么叫login呢，因为我们可以有2种方式来使用W&B，一种是使用云端，也就是这家公司提供的cloud服务，可以申请一个个人[免费账户](https://wandb.ai/login?signup=true)，然后执行
 
-```
+```Bash
 wandb login --host=https://api.wandb.ai
 ```
 
@@ -44,7 +44,7 @@ SELECT * FROM schema_migrations;
 ```
 不停地执行最后一句，直到它返回的dirty=0，那么恭喜你，local server启动好了。然后执行：
 
-```
+```Bash
 wandb login --host=https://xxxxx:8080
 ```
 
@@ -81,7 +81,7 @@ run.finish()
 
 W&B 还支持sweep，但是**注意**，我发现用了sweep之后显存无法释放【截止到20201015，已经在github上report issue了】，确实可以手动释放显存，除了略显愚蠢之外，就也还好。手动释放显存的命令参考如下：
 
-```
+```Bash
 sudo ps -ef | grep train | grep -v grep | cut -c 9-15 | xargs kill -9
 ```
 
@@ -89,7 +89,7 @@ sudo ps -ef | grep train | grep -v grep | cut -c 9-15 | xargs kill -9
 
 1. 创建一个yaml文件，更多的config[参见](https://docs.wandb.com/sweeps/configuration)
 
-   ```
+   ```Bash
    program: train/train_mpe.py
    project: sweep_MPE
    name: simple_spread_mlp
@@ -156,7 +156,7 @@ sudo ps -ef | grep train | grep -v grep | cut -c 9-15 | xargs kill -9
 
 3. 开启sweep agent
 
-    ```
+    ```Bash
     wandb agent your-sweep-id
     ```
 
