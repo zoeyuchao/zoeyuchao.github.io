@@ -85,6 +85,12 @@ W&B 还支持sweep，但是**注意**，我发现用了sweep之后显存无法�
 sudo ps -ef | grep train | grep -v grep | cut -c 9-15 | xargs kill -9
 ```
 
+20201016想到了一个更加智能的方案来解决显存问题，因为我发现它的PPID会变成1，因为wandb父进程已经被kill了：
+
+```Bash
+ps -A -ostat,ppid,pid,cmd | grep -E "train|multiprocessing" | grep -v grep | awk '$2==1 {print $3}' | xargs kill -9
+```
+
 如何使用sweep呢？官网[文档指路](https://docs.wandb.com/sweeps)，下面是太长不看版本：
 
 1. 创建一个yaml文件，更多的config[参见](https://docs.wandb.com/sweeps/configuration)
