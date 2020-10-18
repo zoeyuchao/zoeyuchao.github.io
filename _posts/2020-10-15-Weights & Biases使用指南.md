@@ -75,7 +75,24 @@ run.finish()
 1. 我们看group图的时候，应该用mean和std dev。
 
 2. 还可以探索一下report功能，团队协作的时候很好用。
+
 3. 数据可以导出，支持png和csv，也就是我们可以把想要的数据导出，然后画自己想要的plot风格。
+
+4. 网络问题会导致sync中断，解决这个问题的步骤很多，首先我们尽可能避免网络中断，那么学校里的服务器可以加上ping，每5分钟就走一点流量，让网络一直连着。
+
+   ```
+   crontab -e
+   # 加入如下信息并保存
+   */5 * * * * /bin/ping -c 20 baidu.com
+   ```
+
+   其次，一旦出了意外，网络还是中断了，那么不要慌，这不会影响你当前程序的训练情况，他会继续训练，如果训练完了网络还是没有恢复，他就会卡在最后的sync files阶段，一旦网络恢复了，他会把sync做完。如果他还没有训练完网络就恢复了，那么一切就等于无事发生。如果你设置了sweep，那么在网络中断阶段新的程序是跑不起来的，他不会创建任何的results文件，因为实际上没跑起来，他只会把config文件遍历完，但是问题也不大。BUT 上面所说的sync只有files文件，我们真正需要的 .wandb文件并没有sync成功，还是会停留在中断的位置，需要我们手动sync一下这个文件夹。
+
+   ```
+   wandb sync wandb/run-xxxxxxx
+   ```
+
+   
 
 ## 4. Sweep
 
@@ -160,10 +177,10 @@ ps -A -ostat,ppid,pid,cmd | grep -E "train|multiprocessing" | grep -v grep | awk
    wandb sweep sweep.yaml
    ```
 
-3. 开启sweep agent
+3. 开启sweep agent，可以在很多别的机器上运行，也可以在本机上运行，而且一次可以运行好几个agent
 
     ```Bash
     wandb agent your-sweep-id
     ```
 
-如果sweep结束了，你发现有一些东西需要重跑，那么要先删掉它们相关的文件，有run文件还有config文件，local和server端都删掉。然后在server上**resume sweep id**，本地继续执行wandb agent命令，他就会自己跑剩下的实验。
+如果sweep结束了，你发现有一些东西需要重跑，那么要先删掉它们相关的文件，有run文件，server端要删掉，local端看心情吧。然后在server上**resume sweep id**，本地继续执行wandb agent命令，他就会自己跑剩下的实验。
