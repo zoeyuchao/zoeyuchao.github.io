@@ -78,21 +78,29 @@ run.finish()
 
 3. 数据可以导出，支持png和csv，也就是我们可以把想要的数据导出，然后画自己想要的plot风格。
 
-4. 网络问题会导致sync中断，解决这个问题的步骤很多，首先我们尽可能避免网络中断，那么学校里的服务器可以加上ping，每5分钟就走一点流量，让网络一直连着。
+4. 网络问题会导致sync中断，解决这个问题的步骤很多，首先我们尽可能避免网络中断，那么学校里的服务器可以加上ping，每5分钟就走一点流量，让网络一直连着。甚至让它每天自动登录账号。
 
    ```
    crontab -e
    # 加入如下信息并保存
-   */5 * * * * /bin/ping -c 20 baidu.com
+   */5 * * * * /bin/ping -c 20 baidu.com > /tmp/pingbaidu.txt
+   * */5 * * * /bin/rm -r /tmp/pingbaidu.txt
+00 23 * * * #你的python(可以用which python读一下) #你的connect_net.py
    ```
 
    其次，一旦出了意外，网络还是中断了，那么不要慌，这不会影响你当前程序的训练情况，他会继续训练，如果训练完了网络还是没有恢复，他就会卡在最后的sync files阶段，一旦网络恢复了，他会把sync做完。如果他还没有训练完网络就恢复了，那么一切就等于无事发生。如果你设置了sweep，那么在网络中断阶段新的程序是跑不起来的，他不会创建任何的results文件，因为实际上没跑起来，他只会把config文件遍历完，但是问题也不大。BUT 上面所说的sync只有files文件，我们真正需要的 .wandb文件并没有sync成功，还是会停留在中断的位置，需要我们手动sync一下这个文件夹。
-
-   ```
-   wandb sync wandb/run-xxxxxxx
-   ```
-
    
+   ```
+wandb sync wandb/run-xxxxxxx
+   ```
+   
+   如果一旦你是大批量跑了文件，那么也不要慌，我们安排个脚本直接sync一下全部文件。
+   
+   ```
+   ls | grep -E "run|offline" | grep -v latest | xargs wandb sync --no-mark-synced
+   ```
+   
+   设置了不要mark的原因是批量sync的时候，很可能也会sync那些正在跑的程序，我修改了一下wandb的源码，使得我们可以手动sync，但是我觉得最好还是不要标记了吧。
 
 ## 4. Sweep
 
