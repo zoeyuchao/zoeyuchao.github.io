@@ -42,7 +42,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-pen-fancy"></i> Multi-agent RL</h3> 
+    <h3><i class="fas fa-pen-fancy"></i> Strategic Agent</h3> 
     <ul>
       <li>
         My <span class="primary-gradient-text">Research Focus</span>: 
@@ -60,7 +60,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-globe-asia"></i> Embodied Intelligence</h3>
+    <h3><i class="fas fa-globe-asia"></i> Embodied Agent</h3>
     <ul>
       <li>My <span class="primary-gradient-text">Application Interest</span>: 
         embodied intelligence with quadrupeds, drones, multi-robot systems, VLA models, and world-model-based robotic training.
@@ -1379,15 +1379,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <h2 class="recruit-title">We are actively recruiting!</h2>
 
   <p class="recruit-text">
-    We are looking for Ph.D. and Master students, Postdocs, and Undergraduate Interns
+    We are looking for Ph.D. and Master students, Postdocs at Tsinghua University, Ph.D. students of the Joint Program of Zhongguancun Academy and Tsinghua University and Undergraduate Interns
     with strong interests and motivation to work on frontier research topics including:
   </p>
 
   <div class="recruit-tags">
-    <div class="recruit-tag">Efficient deep learning &amp; embodied intelligence</div>
-    <div class="recruit-tag">Agentic &amp; embodied large model training</div>
-    <div class="recruit-tag">Self-evolving embodied agents</div>
-    <div class="recruit-tag">Distributed machine learning systems</div>
+    <div class="recruit-tag">Reinforcement learning &amp; embodied intelligence infrastructure</div>
+    <div class="recruit-tag">Embodied agent &amp; embodied large model training</div>
+    <div class="recruit-tag">Strategic agent</div>
+    <div class="recruit-tag">Open source community</div>
   </div>
 
   <p class="recruit-text" style="margin-bottom:0;">
@@ -1398,7 +1398,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
   <div class="recruit-buttons">
     <a class="recruit-btn" href="/application/">Application →</a>
-    <a class="recruit-btn" href="/meeting/">Book a Meeting →</a>
+    <a class="recruit-btn" href="https://nics-efc.feishu.cn/wiki/I6RSw44u0iOibhkviXjcAVZRn5Q?from=from_copylink">RLinf related work →</a>
   </div>
 </div>
 
