@@ -1,0 +1,27 @@
+main:
+  - title: "Research Interests"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Awards"
+    url: "/#-awards"
+
+  - title: "Talks"
+    url: "/#-talks"
+
+  - title: "Projects & Patents"
+    url: "/#-services"
+
+  - title: "Work Experience"
+    url: "/#-internships"
+
+  - title: "Bond"
+    url: "/#-bond"
