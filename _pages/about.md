@@ -50,7 +50,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
       </li>
       <li>
         Representative works include 
-        Multi-Agent Games,
+        <a href="https://github.com/marlbenchmark/on-policy" class="link-accent"> MAPPO</a>,
         <a href="https://arxiv.org/abs/2310.03354" class="link-accent"> Fictitious Cross-Play</a>,
         <a href="https://arxiv.org/abs/2510.15414" class="link-accent"> MARSHAL</a>,
         <a href="https://arxiv.org/abs/2602.04634" class="link-accent"> WideSeek-R1</a>,
@@ -1255,13 +1255,10 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 
 <span class='anchor' id='-services'></span>
-# 👓 Projects & Patents
+# 👓 Projects
 - *Projects*: &nbsp;[1] 基于深度强化学习的多无人机追逃博弈决策和控制关键技术研究，国家自然科学基金委，青年科学基金项目（C类）, 2025-2027.
 - *Projects*: &nbsp;[2] 多机协同高效机器学习系统研究，国家自然科学基金-中德合作交流基金, 2021-2025.
 - *Projects*: &nbsp;[3] 具有强推理能力的大语言模型智能体关键技术研究，中国博士后基金特别资助, 2023-2025.
-- *Patents*: &nbsp;(1) 阳欣怡; 汪玉; 杨雨翔; 于超; 杨华中; 多智能体的环境探索方法、装置、电子设备及存储介质, 2024-06-14, 中国, ZL202211067341.1.
-- *Patents*: &nbsp;(2) 汪玉; 高枫; 于超; 吴翼; 基于预测误差反馈的鲁棒强化学习控制方法及装置, 2025-09-19, 中国, ZL202411905779.1.
-- *Patents*: &nbsp;(3) 于超; 吴翼; 汪玉; 阳欣怡; 高嘉煊; 多智能体的环境探索方法、装置、系统、智能体及介质, 2025-07-08, 中国, ZL202211080551.4.
 
 <span class='anchor' id='-internships'></span>
 # 💼 Work Experience
