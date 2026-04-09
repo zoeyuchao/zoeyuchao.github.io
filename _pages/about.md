@@ -409,7 +409,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
 
-  <div class='paper-box floating-card' data-tags="LLM, 2025, Preprint">
+  <div class='paper-box floating-card' data-tags="LLM, 2026, CCF-A">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">arXiv 2025</div>
       <img src='images/vsbench.png' alt="VS-Bench" width="100%">
@@ -417,7 +417,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <div class='paper-box-text'>
       <h3>VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments</h3>
       <div class="authors">Zelai Xu⭐️, Zhexuan Xu⭐️, Xiangmin Yi, Huining Yuan, Xinlei Chen, Yongji Wu, <span class="primary-gradient-text">Chao Yu</span>📧, Yu Wang📧</div>
-      <div class="venue">arXiv preprint arXiv:2506.02387</div>
+      <div class="venue">ICLR 2026 Oral</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2506.02387" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -1265,7 +1265,142 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2026.01 - Present*: &nbsp;Assistant Professor, Tsinghua University.
 - *2023.07 - 2025.12*: &nbsp;Postdoctoral Researcher, Tsinghua University.
 
-<span class='anchor' id='-interests'></span>
+<span class='anchor' id='-recruitment'></span>
+# 🙋 Recruitment
+
+<style>
+.recruit-card {
+  margin: 2rem 0;
+  padding: 2.2rem 2rem 2rem 2rem;
+  background: #f5f2ee;
+  border: 2px solid #d8d0c7;
+  border-top: 6px solid #c69c6d;
+  border-radius: 1.8rem;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+}
+
+.recruit-title {
+  margin: 0 0 1.4rem 0;
+  font-size: 2.6rem;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #8b572a;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.recruit-text {
+  margin: 0 0 1.6rem 0;
+  font-size: 1.25rem;
+  line-height: 1.75;
+  color: #203047;
+  font-weight: 650;
+}
+
+.recruit-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  margin: 1.2rem 0 1.8rem 0;
+}
+
+.recruit-tag {
+  display: inline-block;
+  padding: 1rem 1.8rem;
+  background: #ffffff;
+  border: 2px solid #d8d3cd;
+  border-radius: 1rem;
+  color: #14263d;
+  font-size: 1.05rem;
+  font-weight: 800;
+  line-height: 1.4;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+}
+
+.recruit-divider {
+  height: 1px;
+  background: #e6e1da;
+  margin: 1.8rem 0 1.8rem 0;
+}
+
+.recruit-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.4rem;
+}
+
+.recruit-btn {
+  display: inline-block;
+  padding: 1rem 2rem;
+  min-width: 240px;
+  text-align: center;
+  text-decoration: none !important;
+  color: #ffffff !important;
+  font-size: 1.05rem;
+  font-weight: 800;
+  border-radius: 1rem;
+  background: linear-gradient(180deg, #2c6aa0 0%, #1f5c91 100%);
+  box-shadow: 0 8px 18px rgba(30, 75, 120, 0.18);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.recruit-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 22px rgba(30, 75, 120, 0.22);
+}
+
+@media (max-width: 768px) {
+  .recruit-card {
+    padding: 1.5rem 1.2rem;
+    border-radius: 1.2rem;
+  }
+
+  .recruit-title {
+    font-size: 2rem;
+  }
+
+  .recruit-text {
+    font-size: 1.05rem;
+    line-height: 1.65;
+  }
+
+  .recruit-tag {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .recruit-btn {
+    width: 100%;
+    min-width: unset;
+  }
+}
+</style>
+
+<div class="recruit-card">
+  <h2 class="recruit-title">We are actively recruiting!</h2>
+
+  <p class="recruit-text">
+    We are looking for Ph.D. and Master students, Postdocs, and Undergraduate Interns
+    with strong interests and motivation to work on frontier research topics including:
+  </p>
+
+  <div class="recruit-tags">
+    <div class="recruit-tag">Efficient deep learning &amp; embodied intelligence</div>
+    <div class="recruit-tag">Agentic &amp; embodied large model training</div>
+    <div class="recruit-tag">Self-evolving embodied agents</div>
+    <div class="recruit-tag">Distributed machine learning systems</div>
+  </div>
+
+  <p class="recruit-text" style="margin-bottom:0;">
+    Candidates with hands-on systems building abilities and mathematical background are highly encouraged.
+  </p>
+
+  <div class="recruit-divider"></div>
+
+  <div class="recruit-buttons">
+    <a class="recruit-btn" href="/application/">Application →</a>
+    <a class="recruit-btn" href="/meeting/">Book a Meeting →</a>
+  </div>
+</div>
 
 <span class='anchor' id='-bond'></span>
 # 🔗 Bond
