@@ -1397,7 +1397,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class="recruit-divider"></div>
 
   <div class="recruit-buttons">
-    <a class="recruit-btn" href="/application/">Application →</a>
+    <a class="recruit-btn" href="https://thusigs-edi-lab.github.io/contact/">Application →</a>
     <a class="recruit-btn" href="https://nics-efc.feishu.cn/wiki/I6RSw44u0iOibhkviXjcAVZRn5Q?from=from_copylink">RLinf related work →</a>
   </div>
 </div>
