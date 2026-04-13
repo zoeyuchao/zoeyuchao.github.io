@@ -417,7 +417,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <div class='paper-box-text'>
       <h3>VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments</h3>
       <div class="authors">Zelai Xu⭐️, Zhexuan Xu⭐️, Xiangmin Yi, Huining Yuan, Xinlei Chen, Yongji Wu, <span class="primary-gradient-text">Chao Yu</span>📧, Yu Wang📧</div>
-      <div class="venue">ICLR 2026 Oral</div>
+      <div class="venue">CVPR 2026 Oral</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2506.02387" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
