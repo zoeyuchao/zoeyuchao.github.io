@@ -104,6 +104,21 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <span class='anchor' id='-publications'></span>
 # 📃 Publications
 
+<div class='paper-box floating-card' data-tags="Systems, 2026, Conference">
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">OSDI 2026</div>
+    <img src='images/dynarl.png' alt="DynaRL Overview" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>DynaRL: Flexible and Dynamic Scheduling of Large-scale Reinforcement Learning Training</h3>
+    <div class="authors">Yuanqing Wang, Hao Lin, Junhao Hu, Chunyang Zhu, Quanlu Zhang, Zhen Guo, Yuchen Zhang, Xu Fu, Si Xu, Bo Dai, Zixiao Huang, <span class="primary-gradient-text">Chao Yu</span>, Boxun Li, Guohao Dai, Zhi Yang, Yu Wang📧</div>
+    <div class="venue">OSDI 2026</div>
+    <div class="links">
+      <a href="https://www.usenix.org/conference/osdi26/presentation/wang-yuanqing" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
+</div>
+
 <div id="publications-wrapper">
   <div id="filter-container"></div>
   
@@ -159,9 +174,9 @@ Feel free to reach out if you'd like to discuss research or explore potential co
       <img src='images/rlinfuser.png' alt="RLinf-USER" width="100%">
     </div>
     <div class='paper-box-text'>
-      <h3>RLinf-USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI</h3>
+      <h3>USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI</h3>
       <div class="authors">Hongzhi Zang, Shu'ang Yu, Hao Lin, Tianxing Zhou, Zefang Huang, Zhen Guo, Xin Xu, Jiakai Zhou, Yuze Sheng, Shizhe Zhang, Feng Gao, Wenhao Tang, Yufeng Yue, Quanlu Zhang, Xinlei Chen, <span class="primary-gradient-text">Chao Yu</span>, Yu Wang</div>
-      <div class="venue">arXiv preprint arXiv:2602.07837</div>
+      <div class="venue">RSS 2026</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2602.07837" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -264,9 +279,9 @@ Feel free to reach out if you'd like to discuss research or explore potential co
       <img src='images/rlinfvla.png' alt="RLinf-VLA" width="100%">
     </div>
     <div class='paper-box-text'>
-      <h3>RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training</h3>
+      <h3>RLux-VLA: A Unified and Efficient Framework for VLA+RL Training</h3>
       <div class="authors">Hongzhi Zang, Mingjie Wei, Si Xu, Yongji Wu, Zhen Guo, Yuanqing Wang, Hao Lin, Liangzhi Shi, Yuqing Xie, Zhexuan Xu, Zhihao Liu, Kang Chen, Wenhao Tang, Quanlu Zhang, Weinan Zhang, <span class="primary-gradient-text">Chao Yu</span>, Yu Wang</div>
-      <div class="venue">arXiv preprint arXiv:2510.06710</div>
+      <div class="venue">RSS 2026</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2510.06710" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -339,9 +354,9 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <img src='images/rlinf.png' alt="RLinf Overview" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation</h3>
+    <h3>RLux: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation</h3>
     <div class="authors"><span class="primary-gradient-text">Chao Yu</span>, Yuanqing Wang, Zhen Guo, Hao Lin, Si Xu, Hongzhi Zang, Quanlu Zhang, Yongji Wu, Chunyang Zhu, Junhao Hu, Zixiao Huang, Mingjie Wei, Yuqing Xie, Ke Yang, Bo Dai, Zhexuan Xu, Jiakun Du, Xiangyuan Wang, Xu Fu, Letong Shi, Zhihao Liu, Kang Chen, Weilin Liu, Gang Liu, Boxun Li, Jianlei Yang, Zhi Yang, Guohao Dai, Yu Wang📧</div>
-    <div class="venue">arXiv preprint arXiv:2509.15965 (2025)</div>
+    <div class="venue">OSDI 2026</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2509.15965" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <a href="https://github.com/RLinf/RLinf" class="btn-accent"><i class="fab fa-github"></i> Code</a>
