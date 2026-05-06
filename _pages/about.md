@@ -103,15 +103,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-publications'></span>
 # 📃 Publications
-<div class='paper-box floating-card' data-tags="LLM, 2024, Preprint">
+<div class='paper-box floating-card' data-tags="LLM, 2024, CCF-C">
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">arXiv 2024</div>
+    <div class="badge pulse-accent">RLC 2026</div>
     <img src='images/icpl.png' alt="ICPL Overview" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>ICPL: Few-shot In-Context Preference Learning via LLMs</h3>
     <div class="authors"><span class="primary-gradient-text">Chao Yu</span>, Qixin Tan, Hong Lu, Jiaxuan Gao, Xinting Yang, Yu Wang, Yi Wu, Eugene Vinitsky📧</div>
-    <div class="venue">arXiv 2024</div>
+    <div class="venue">RLC 2026</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2410.17233" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
     </div>
