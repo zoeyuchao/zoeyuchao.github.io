@@ -22,7 +22,7 @@ header:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Chao Yu（于超）</span>. I received my Ph.D. from the Department of Electronic Engineering at **Tsinghua University**<img src='images/thulogo.png' style="height:1em; vertical-align:middle;"> in 2023. I am currently an Assistant Professor (Distinguished Research Fellow) at the <a href="https://thusigs-edi-lab.github.io" class="link-accent">Embodied Decision Intelligence Lab (EDI Lab)</a> at **Tsinghua Shenzhen International Graduate School (SIGS)**<img src='images/sigs.png' style="height:1em; vertical-align:middle;">. I also serve as the chairman of the **Tsinghua Shenzhen International Graduate School - AgiBot Joint Research Center for Embodied Cognition and Decision Systems (JCES)** 清华-智元联合研究中⼼主任. I have been selected for the **Youth Talent Support Program** of the Chinese Institute of Electronics. My research has long focused on **reinforcement learning–based decision intelligence**. As first author or corresponding author, I have published more than 50 papers in top-tier international conferences and journals, including ICML, NeurIPS, ICLR, CVPR, ECCV, CoRL, IROS, ICRA, TMLR, and RAL, with over 6,000 citations on Google Scholar. My representative works include the multi-agent reinforcement learning algorithm<a href="https://github.com/marlbenchmark/on-policy" class="link-accent"> **MAPPO**</a>, which has received more than 3,000 Google Scholar citations, and<a href="https://github.com/RLinf/RLinf" class="link-accent"> **RLinf**</a>, a large-scale reinforcement learning training framework for embodied intelligence, which has accumulated over 3,000 GitHub stars.
+My name is <span class="accent-text">Chao Yu（于超）</span>. I received my Ph.D. from the Department of Electronic Engineering at **Tsinghua University**<img src='images/thulogo.png' style="height:1em; vertical-align:middle;"> in 2023. I am currently an Assistant Professor (Distinguished Research Fellow) at the <a href="https://thusigs-edi-lab.github.io" class="link-accent">Embodied Decision Intelligence Lab (EDI Lab)</a> at **Tsinghua Shenzhen International Graduate School (SIGS)**<img src='images/sigs.png' style="height:1em; vertical-align:middle;">. I also serve as the chairman of the **Tsinghua Shenzhen International Graduate School - AgiBot Joint Research Center for Embodied Cognition and Decision Systems (JCES)** 清华-智元联合研究中⼼主任. I'm also the **co-founder of Striding AI(正行创新)**. I have been selected for the **Youth Talent Support Program** of the Chinese Institute of Electronics. My research has long focused on **reinforcement learning–based decision intelligence**. As first author or corresponding author, I have published more than 50 papers in top-tier international conferences and journals, including ICML, NeurIPS, ICLR, CVPR, ECCV, CoRL, IROS, ICRA, TMLR, and RAL, with over 7,000 citations on Google Scholar. My representative works include the multi-agent reinforcement learning algorithm<a href="https://github.com/marlbenchmark/on-policy" class="link-accent"> **MAPPO**</a>, which has received more than 4,000 Google Scholar citations, and<a href="https://github.com/RLinf/RLinf" class="link-accent"> **RLinf**</a>, a large-scale reinforcement learning training framework for embodied intelligence, which has accumulated over 4,000 GitHub stars.
 
 Feel free to reach out if you'd like to discuss research or explore potential collaboration!
 
@@ -103,54 +103,70 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-publications'></span>
 # 📃 Publications
-<div class='paper-box floating-card' data-tags="LLM, 2024, CCF-C">
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">RLC 2026</div>
-    <img src='images/icpl.png' alt="ICPL Overview" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>ICPL: Few-shot In-Context Preference Learning via LLMs</h3>
-    <div class="authors"><span class="primary-gradient-text">Chao Yu</span>, Qixin Tan, Hong Lu, Jiaxuan Gao, Xinting Yang, Yu Wang, Yi Wu, Eugene Vinitsky📧</div>
-    <div class="venue">RLC 2026</div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2410.17233" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-    </div>
-  </div>
-</div>
-
-<div class='paper-box floating-card' data-tags="Systems, 2026, Conference">
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">OSDI 2026</div>
-    <img src='images/dynarl.png' alt="DynaRL Overview" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>DynaRL: Flexible and Dynamic Scheduling of Large-scale Reinforcement Learning Training</h3>
-    <div class="authors">Yuanqing Wang, Hao Lin, Junhao Hu, Chunyang Zhu, Quanlu Zhang, Zhen Guo, Yuchen Zhang, Xu Fu, Si Xu, Bo Dai, Zixiao Huang, <span class="primary-gradient-text">Chao Yu</span>, Boxun Li, Guohao Dai, Zhi Yang, Yu Wang📧</div>
-    <div class="venue">OSDI 2026</div>
-    <div class="links">
-      <a href="https://www.usenix.org/conference/osdi26/presentation/wang-yuanqing" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-    </div>
-  </div>
-</div>
 
 <div id="publications-wrapper">
   <div id="filter-container"></div>
-  
-  <div class='paper-box floating-card' data-tags="VLA, 2026, Preprint">
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">arXiv 2026</div>
-    <img src='images/tex3d.png' alt="Tex3D Overview" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models</h3>
-    <div class="authors">Jiawei Chen⭐️, Simin Huang⭐️, Jiawei Du, Shuaihang Chen, Yu Tian, Mingjie Wei, <span class="primary-gradient-text">Chao Yu</span>📧, Zhaoxia Yin📧</div>
-    <div class="venue">Proceedings of the ACM Multimedia Conference (ACM MM 2026)</div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2604.01618" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="https://vla-attack.github.io/tex3d/" class="btn-accent"><i class="fas fa-globe"></i> Project</a>
+
+  <div class='paper-box floating-card' data-tags="Robotics, 2026, CCF-B">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">RAL 2026</div>
+      <img src='images/icpl.png' alt="ICPL Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>Human-Guided Online Reward Adaptation forReal-Robot Arm Manipulations</h3>
+      <div class="authors">Tianxing Zhou, Haojia Ao, Haoyang Lu, Guangyan Cheen, Zichen Zhou, Te Cui, <span class="primary-gradient-text">Chao Yu</span>📧, Yufeng Yue📧</div>
+      <div class="venue">IEEE Robotics and Automation Letters (RAL 2026)</div>
+      <div class="links">
+        <a href="https://arxiv.org/abs/2410.17233" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      </div>
     </div>
   </div>
-</div>
+
+  <div class='paper-box floating-card' data-tags="LLM, 2026, CCF-C">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">RLC 2026</div>
+      <img src='images/icpl.png' alt="ICPL Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>ICPL: Few-shot In-Context Preference Learning via LLMs</h3>
+      <div class="authors"><span class="primary-gradient-text">Chao Yu</span>, Qixin Tan, Hong Lu, Jiaxuan Gao, Xinting Yang, Yu Wang, Yi Wu, Eugene Vinitsky📧</div>
+      <div class="venue">Reinforcement Learning Conference (RLC 2026)</div>
+      <div class="links">
+        <a href="https://arxiv.org/abs/2410.17233" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      </div>
+    </div>
+  </div>
+
+  <div class='paper-box floating-card' data-tags="Systems, 2026, CCF-A">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">OSDI 2026</div>
+      <img src='images/dynarl.png' alt="DynaRL Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>DynaRL: Flexible and Dynamic Scheduling of Large-scale Reinforcement Learning Training</h3>
+      <div class="authors">Yuanqing Wang, Hao Lin, Junhao Hu, Chunyang Zhu, Quanlu Zhang, Zhen Guo, Yuchen Zhang, Xu Fu, Si Xu, Bo Dai, Zixiao Huang, <span class="primary-gradient-text">Chao Yu</span>, Boxun Li, Guohao Dai, Zhi Yang, Yu Wang📧</div>
+      <div class="venue">20th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026)</div>
+      <div class="links">
+        <a href="https://www.usenix.org/conference/osdi26/presentation/wang-yuanqing" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class='paper-box floating-card' data-tags="VLA, 2026, CCF-A">
+    <div class='paper-box-image'>
+      <div class="badge pulse-accent">ACMMM 2026</div>
+      <img src='images/tex3d.png' alt="Tex3D Overview" width="100%">
+    </div>
+    <div class='paper-box-text'>
+      <h3>Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models</h3>
+      <div class="authors">Jiawei Chen⭐️, Simin Huang⭐️, Jiawei Du, Shuaihang Chen, Yu Tian, Mingjie Wei, <span class="primary-gradient-text">Chao Yu</span>📧, Zhaoxia Yin📧</div>
+      <div class="venue">Proceedings of the ACM Multimedia Conference (ACM MM 2026)</div>
+      <div class="links">
+        <a href="https://arxiv.org/abs/2604.01618" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <a href="https://vla-attack.github.io/tex3d/" class="btn-accent"><i class="fas fa-globe"></i> Project</a>
+      </div>
+    </div>
+  </div>
 
   <div class='paper-box floating-card' data-tags="VLA, 2026, Preprint">
     <div class='paper-box-image'>
@@ -182,15 +198,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
 
-  <div class='paper-box floating-card' data-tags="Systems, 2026, Preprint">
+  <div class='paper-box floating-card' data-tags="Systems, 2026, CCF-A">
     <div class='paper-box-image'>
-      <div class="badge pulse-accent">arXiv 2026</div>
+      <div class="badge pulse-accent">RSS 2026</div>
       <img src='images/rlinfuser.png' alt="RLinf-USER" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI</h3>
       <div class="authors">Hongzhi Zang, Shu'ang Yu, Hao Lin, Tianxing Zhou, Zefang Huang, Zhen Guo, Xin Xu, Jiakai Zhou, Yuze Sheng, Shizhe Zhang, Feng Gao, Wenhao Tang, Yufeng Yue, Quanlu Zhang, Xinlei Chen, <span class="primary-gradient-text">Chao Yu</span>, Yu Wang</div>
-      <div class="venue">RSS 2026</div>
+      <div class="venue">Robotics: Science and Systems (RSS 2026)</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2602.07837" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -212,15 +228,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class='paper-box floating-card' data-tags="Robotics, 2025, Preprint">
+<div class='paper-box floating-card' data-tags="Robotics, 2026, CCF-A">
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Preprint 2025</div>
+    <div class="badge pulse-accent">CVPR 2026</div>
     <img src='images/roboscape.png' alt="RoboScape-R Overview" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL</h3>
     <div class="authors">Yinzhou Tang⭐️, Yu Shang⭐️, Yinuo Chen⭐️, Bingwen Wei, Xin Zhang, Shu'ang Yu, Liangzhi Shi, <span class="primary-gradient-text">Chao Yu</span>, Chen Gao, Wei Wu, Yong Li📧</div>
-    <div class="venue">Preprint (2025)</div>
+    <div class="venue">The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2512.03556" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
     </div>
@@ -235,7 +251,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   <div class='paper-box-text'>
     <h3>Red Teaming Large Reasoning Models</h3>
     <div class="authors">Jiawei Chen⭐️, Yang Yang⭐️, <span class="primary-gradient-text">Chao Yu</span>⭐️, Yu Tian, Zhi Cao, Xue Yang, Linghao Li, Hang Su, Zhaoxia Yin📧</div>
-    <div class="venue">Preprint (2025)</div>
+    <div class="venue">Annual Meeting of the Association for Computational Linguistics (ACL 2025)</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2512.00412" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
     </div>
@@ -287,15 +303,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-  <div class='paper-box floating-card' data-tags="Systems, 2025, Preprint">
+  <div class='paper-box floating-card' data-tags="Systems, 2026, CCF-A">
     <div class='paper-box-image'>
-      <div class="badge pulse-accent">arXiv 2025</div>
+      <div class="badge pulse-accent">RSS 2026</div>
       <img src='images/rlinfvla.png' alt="RLinf-VLA" width="100%">
     </div>
     <div class='paper-box-text'>
-      <h3>RLux-VLA: A Unified and Efficient Framework for VLA+RL Training</h3>
-      <div class="authors">Hongzhi Zang, Mingjie Wei, Si Xu, Yongji Wu, Zhen Guo, Yuanqing Wang, Hao Lin, Liangzhi Shi, Yuqing Xie, Zhexuan Xu, Zhihao Liu, Kang Chen, Wenhao Tang, Quanlu Zhang, Weinan Zhang, <span class="primary-gradient-text">Chao Yu</span>, Yu Wang</div>
-      <div class="venue">RSS 2026</div>
+      <h3>RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training</h3>
+      <div class="authors">Hongzhi Zang, Mingjie Wei, Si Xu, Yongji Wu, Zhen Guo, Yuanqing Wang, Hao Lin, Liangzhi Shi, Yuqing Xie, Zhexuan Xu, Zhihao Liu, Kang Chen, Wenhao Tang, Quanlu Zhang, Weinan Zhang, <span class="primary-gradient-text">Chao Yu📧</span>, Yu Wang📧</div>
+      <div class="venue">Robotics: Science and Systems (RSS 2026)</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2510.06710" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -310,7 +326,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     <div class='paper-box-text'>
       <h3>SAC Flow: Sample-Efficient Reinforcement Learning of Flow-Based Policies via Velocity-Reparameterized Sequential Modeling</h3>
       <div class="authors">Yixian Zhang, Shu'ang Yu, Tonghe Zhang, Mo Guang, Haojia Hui, Kaiwen Long, Yu Wang, <span class="primary-gradient-text">Chao Yu</span>📧, Wenbo Ding📧</div>
-      <div class="venue">ICLR 2026</div>
+      <div class="venue">The Fourteenth International Conference on Learning Representations (ICLR 2026)</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2509.25756" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -332,45 +348,45 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-  <div class='paper-box floating-card' data-tags="Robotics, 2025, Preprint">
+  <div class='paper-box floating-card' data-tags="Robotics, 2026, CCF-A">
     <div class='paper-box-image'>
-      <div class="badge pulse-accent">arXiv 2025</div>
+      <div class="badge pulse-accent">ICRA 2026</div>
       <img src='images/jugglerl.png' alt="JuggleRL" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>JuggleRL: Mastering Ball Juggling with a Quadrotor via Deep Reinforcement Learning</h3>
-      <div class="authors">Shilong Ji, Yinuo Chen, Chuqi Wang, Jiayu Chen, Ruize Zhang, Feng Gao, Wenhao Tang, Shu'ang Yu, Sirui Xiang, Xinlei Chen, <span class="primary-gradient-text">Chao Yu</span>, Yu Wang</div>
-      <div class="venue">arXiv preprint arXiv:2509.24892</div>
+      <div class="authors">Shilong Ji, Yinuo Chen, Chuqi Wang, Jiayu Chen, Ruize Zhang, Feng Gao, Wenhao Tang, Shu'ang Yu, Sirui Xiang, Xinlei Chen📧, <span class="primary-gradient-text">Chao Yu</span>📧, Yu Wang📧</div>
+      <div class="venue">International Conference on Robotics and Automation (ICRA 2026)</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2509.24892" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
     </div>
   </div>
 
-  <div class='paper-box floating-card' data-tags="Robotics, 2025, Preprint">
+  <div class='paper-box floating-card' data-tags="Robotics, 2026, CCF-B">
     <div class='paper-box-image'>
-      <div class="badge pulse-accent">arXiv 2025</div>
+      <div class="badge pulse-accent">RAL 2026</div>
       <img src='images/world4rl.png' alt="World4RL" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation</h3>
-      <div class="authors">Zhennan Jiang, Kai Liu, Yuxin Qin, Shuai Tian, Yupeng Zheng, Mingcai Zhou, <span class="primary-gradient-text">Chao Yu</span>, Haoran Li, Dongbin Zhao</div>
-      <div class="venue">arXiv preprint arXiv:2509.19080</div>
+      <div class="authors">Zhennan Jiang, Kai Liu, Yuxin Qin, Shuai Tian, Yupeng Zheng, Mingcai Zhou, <span class="primary-gradient-text">Chao Yu</span>📧, Haoran Li📧, Dongbin Zhao📧</div>
+      <div class="venue">IEEE Robotics and Automation Letters (RAL 2026)</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2509.19080" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
     </div>
   </div>
 
-  <div class='paper-box floating-card' data-tags="Systems, 2025, Preprint">
+  <div class='paper-box floating-card' data-tags="Systems, 2025, CCF-A">
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">arXiv 2025</div>
+    <div class="badge pulse-accent">OSDI 2026</div>
     <img src='images/rlinf.png' alt="RLinf Overview" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>RLux: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation</h3>
+    <h3>RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation</h3>
     <div class="authors"><span class="primary-gradient-text">Chao Yu</span>, Yuanqing Wang, Zhen Guo, Hao Lin, Si Xu, Hongzhi Zang, Quanlu Zhang, Yongji Wu, Chunyang Zhu, Junhao Hu, Zixiao Huang, Mingjie Wei, Yuqing Xie, Ke Yang, Bo Dai, Zhexuan Xu, Jiakun Du, Xiangyuan Wang, Xu Fu, Letong Shi, Zhihao Liu, Kang Chen, Weilin Liu, Gang Liu, Boxun Li, Jianlei Yang, Zhi Yang, Guohao Dai, Yu Wang📧</div>
-    <div class="venue">OSDI 2026</div>
+    <div class="venue">20th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2026)</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2509.15965" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <a href="https://github.com/RLinf/RLinf" class="btn-accent"><i class="fab fa-github"></i> Code</a>
@@ -378,15 +394,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class='paper-box floating-card' data-tags="Robotics, 2025, Preprint">
+<div class='paper-box floating-card' data-tags="Robotics, 2026, CCF-B">
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">arXiv 2025</div>
+    <div class="badge pulse-accent">IROS 2026</div>
     <img src='images/d3p.png' alt="D3P Overview" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>D3P: Dynamic Denoising Diffusion Policy via Reinforcement Learning</h3>
     <div class="authors">Shu-Ang Yu, Feng Gao, Yi Wu, <span class="primary-gradient-text">Chao Yu</span>📧, Yu Wang📧</div>
-    <div class="venue">arXiv preprint arXiv:2508.06804 (2025)</div>
+    <div class="venue">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2508.06804" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
     </div>
@@ -440,13 +456,13 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
   <div class='paper-box floating-card' data-tags="LLM, 2026, CCF-A">
     <div class='paper-box-image'>
-      <div class="badge pulse-accent">arXiv 2025</div>
+      <div class="badge pulse-accent">ICLR 2026</div>
       <img src='images/vsbench.png' alt="VS-Bench" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments</h3>
       <div class="authors">Zelai Xu⭐️, Zhexuan Xu⭐️, Xiangmin Yi, Huining Yuan, Xinlei Chen, Yongji Wu, <span class="primary-gradient-text">Chao Yu</span>📧, Yu Wang📧</div>
-      <div class="venue">CVPR 2026 Oral</div>
+      <div class="venue">The Fourteenth International Conference on Learning Representations (ICLR 2026) Oral</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2506.02387" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -544,15 +560,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class='paper-box floating-card' data-tags="Safety, 2025, CCF-A">
+<div class='paper-box floating-card' data-tags="Safety, 2026, non-CCF">
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">AAAI 2026 Bridge</div>
+    <div class="badge pulse-accent">CASE 2026</div>
     <img src='images/aed.png' alt="AED Overview" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>AED: Automatic Discovery of Effective and Diverse Vulnerabilities for Autonomous Driving Policy with Large Language Models</h3>
     <div class="authors">Le Qiu⭐️, Zelai Xu⭐️, Qixin Tan⭐️, Wenhao Tang, <span class="primary-gradient-text">Chao Yu</span>📧, Yu Wang📧</div>
-    <div class="venue">The AAAI 2026 Bridge Program on Advancing Large Language Models and Multi-Agent Systems</div>
+    <div class="venue">IEEE 22nd International Conference on Automation Science and Engineering (CASE 2026)</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2503.20804" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       <a href="https://github.com/thu-nics/AED" class="btn-accent"><i class="fab fa-github"></i> Code</a>
