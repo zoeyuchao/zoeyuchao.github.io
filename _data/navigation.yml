@@ -2,9 +2,6 @@ main:
   - title: "Research Interests"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
-
   - title: "Educations"
     url: "/#-educations"
 
@@ -16,6 +13,9 @@ main:
 
   - title: "Talks"
     url: "/#-talks"
+
+  - title: "Live"
+    url: "/#-live"
 
   - title: "Projects"
     url: "/#-services"
