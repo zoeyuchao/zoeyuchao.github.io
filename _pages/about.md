@@ -364,7 +364,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
   <div class='paper-box-text'>
     <h3>RE-PO: Robust Enhanced Policy Optimization as a General Framework for LLM Alignment</h3>
-    <div class="authors">Xiaoyang Cao⭐️, Zelai Xu⭐️, Mo Guang, Kaiwen Long, Michiel A. Bakker, Yu Wang📧, <span class="primary-gradient-text">Chao Yu</span>📧</div>
+    <div class="authors">Xiaoyang Cao⭐️, Zelai Xu⭐️, Mo Guang, Kaiwen Long, Michiel A. Bakker, Yu Wang, <span class="primary-gradient-text">Chao Yu</span>📧</div>
     <div class="venue">International Conference on Learning Representations (ICLR 2026)</div>
     <div class="links">
       <a href="https://arxiv.org/abs/2509.24159" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
@@ -1329,12 +1329,14 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 # 📺 Live
 - *2026.08.08*: &nbsp;张翼显（青稞）— [**从端到端 VLA 到 Harness VLA：面向具身智能与机器人操作任务的记忆增强式执行框架**](qingkeai.online)
 - *2026.07.29*: &nbsp;张翼显（XRobotics）— [**Harness VLA：可持续进化的具身智能体系统**](https://weixin.qq.com/sph/ASMB0IqMPD)
+- *2026.07.10*: &nbsp;刘志豪（Lumina）— [**STEAM：无需人工标注的时序集成优势建模，让真实世界机器人学习更进一步！**](https://mp.weixin.qq.com/s/bqP1ucd2L7bk1kOul6aZ3w)
 - *2026.04.22*: &nbsp;徐哲轩、苑会宁、徐泽来（将门）— [**大模型在多智能体任务中的评估、训练与Scaling**](https://mp.weixin.qq.com/s/G-o5TURksIgVZGRsbDfqJw)
 - *2026.04.14*: &nbsp;苑会宁、张翼显（智源大厦 ICLR 分享）— [**ICLR 预讲会**](https://mp.weixin.qq.com/s/AzyUvWU6HKq7cJWOXkLUdg)
 - *2026.04.10*: &nbsp;施良致（3D视觉工坊）— [**只用20条真实数据训练机器人？RL-Co：强化学习驱动的仿真-真机协同训练**](https://mp.weixin.qq.com/s/g6p_Fl8dGk9qy1AksQiABg)
 - *2026.03.24*: &nbsp;徐哲轩（青稞）— [**从 Depth Scaling 到 Width Scaling！WideSeek-R1：通过多智能体 RL 探索大模型的广度扩展**](https://www.bilibili.com/video/BV1bgQSBnEs6/)
 - *2026.03.10*: &nbsp;臧宏之（青稞）— [**一起聊聊RLinf-USER：面向现实世界机器人在线策略学习的统一且可扩展系统**](https://mp.weixin.qq.com/s/2FjaoeuHsPEnAhVUPLOtVw)
 - *2026.03.08*: &nbsp;于舒昂（Xbotics）— [**RLinf-USER：真实世界在线进化，从系统瓶颈到统一高效，让具身智能真正“活起来”**](https://mp.weixin.qq.com/s/9VoCpyjsoqQL_7bCATKaEg)
+- *2026.07.10*: &nbsp;江震南、施良致、臧宏之（Lumina）— [**RLinf 真机系列工作 | WoVR, RL-Co and USER**](https://mp.weixin.qq.com/s/ueU4rsaaMWHcBa-59zIj5A)
 - *2025.12.28*: &nbsp;于超（青稞 AI 嘉年华）— [**具身智能专题｜2025 “青稞” AI 嘉年华**](https://www.bilibili.com/video/BV1tDqwB2EZ5/)
 - *2025.12.25*: &nbsp;韦明杰（计算机视觉life）— [**RLinf-VLA框架技术报告——RL如何训练VLA？**](https://www.bilibili.com/video/BV1dxBoBLEWf/)
 - *2025.12.15*: &nbsp;张瑞泽、季世龙（深蓝）— [**NeurIPS'25 & CoRL'25｜无人机也能打排球吗？来看看清华团队的解决方案**](https://mp.weixin.qq.com/s/HvLJCr_PNsY0fsx1vS4CXQ)
