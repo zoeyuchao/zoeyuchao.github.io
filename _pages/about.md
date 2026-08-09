@@ -1317,34 +1317,8 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-talks'></span>
 # 🎤 Talks
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Nanjing, China🇨🇳</div>
-    <img src='images/rlinftalk.png' alt="rlinftalk" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>RLinf: A Highly Flexible Reinforcement Learning Post-Training Framework for Embodied Intelligence</h3>
-    <div class="venue">智汇金陵 AI开源人才峰会暨魔搭开发者大会 2026.03.22 13:30 - 18:00</div>
-    <div class="links">
-      <a href="https://bing.com/" class="btn-accent"><i class="fas fa-file-alt"></i> Link</a>
-    </div>
-  </div>
-</div>
-
-<div class='paper-box floating-card'>
-  <div class='paper-box-image'>
-    <div class="badge pulse-accent">Nanjing, China🇨🇳</div>
-    <img src='images/courses/rlconf.jpg' alt="rlinftalk" width="100%">
-  </div>
-  <div class='paper-box-text'>
-    <h3>中国具身智能大会</h3>
-    <div class="venue">于超老师受邀在中国具身智能大会做了两场报告</div>
-    <div class="links">
-      <a href="https://rlinf.readthedocs.io/en/latest" class="btn-accent"><i class="fas fa-file-alt"></i> Link</a>
-    </div>
-  </div>
-</div>
-
+- [**RLinf: A Highly Flexible Reinforcement Learning Post-Training Framework for Embodied Intelligence**](https://github.com/RLinf/RLinf)
+- [**中国具身智能大会**](https://rlinf.readthedocs.io/en/latest)
 
 <span class='anchor' id='-services'></span>
 # 👓 Projects
