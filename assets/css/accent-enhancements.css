@@ -445,10 +445,10 @@ body {
   border-radius: 20px;
   font-size: 0.75em;
   font-weight: 700;
-  letter-spacing: 0.5px;
+  letter-spacing: 0;
   box-shadow: 0 4px 12px rgba(254, 102, 123, 0.25);
   z-index: 10;
-  text-transform: uppercase;
+  text-transform: none;
   backdrop-filter: blur(10px);
 }
 
