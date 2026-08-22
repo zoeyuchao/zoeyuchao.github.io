@@ -1325,6 +1325,13 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2026.05.23*: &nbsp;[**杭州蚂蚁开源报告**](https://mp.weixin.qq.com/s/FDudzltGtjE9kaJDKkVx0w)
 - *2026.01.15*: &nbsp;[**北京人形机器人创新中心报告**](https://mp.weixin.qq.com/s/EAoC-iDPpBPAwRnzlR126w)
 
+<span class='anchor' id='-workshop'></span>
+# 🛠️ Workshop
+- [**从数据飞轮到世界模型，共话具身智能规模化：世界机器人大会-具身智能规模化探索论坛**](https://mp.weixin.qq.com/s/AccH8XkXNTp8rW5FQkLxcQ?scene=1&click_id=16)
+- [**智源大会强化学习论坛**](https://mp.weixin.qq.com/s/b9tEkD6uZvL7gSJx8lyp8Q)
+- [**Post-Training for RFM Workshop @ RSS2026**](https://mp.weixin.qq.com/s/oq53lGgo_ucDuUAkp4-HnA)
+- [**IROS 2026 Workshop**](https://mp.weixin.qq.com/s/cX0L_T3cyI32HriZunk8XA)
+
 <span class='anchor' id='-live'></span>
 # 📺 Live
 - *2026.08.08*: &nbsp;张翼显（青稞）— [**从端到端 VLA 到 Harness VLA：面向具身智能与机器人操作任务的记忆增强式执行框架**](qingkeai.online)
