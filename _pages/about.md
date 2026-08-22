@@ -1343,7 +1343,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2026.03.24*: &nbsp;徐哲轩（青稞）— [**从 Depth Scaling 到 Width Scaling！WideSeek-R1：通过多智能体 RL 探索大模型的广度扩展**](https://www.bilibili.com/video/BV1bgQSBnEs6/)
 - *2026.03.10*: &nbsp;臧宏之（青稞）— [**一起聊聊RLinf-USER：面向现实世界机器人在线策略学习的统一且可扩展系统**](https://mp.weixin.qq.com/s/2FjaoeuHsPEnAhVUPLOtVw)
 - *2026.03.08*: &nbsp;于舒昂（Xbotics）— [**RLinf-USER：真实世界在线进化，从系统瓶颈到统一高效，让具身智能真正“活起来”**](https://mp.weixin.qq.com/s/9VoCpyjsoqQL_7bCATKaEg)
-- *2026.07.10*: &nbsp;江震南、施良致、臧宏之（Lumina）— [**RLinf 真机系列工作 | WoVR, RL-Co and USER**](https://mp.weixin.qq.com/s/ueU4rsaaMWHcBa-59zIj5A)
+- *2026.07.10*: &nbsp;江震南、施良致、臧宏之（Lumina）— [**RLinf 真机系列工作 WoVR, RL-Co and USER**](https://mp.weixin.qq.com/s/ueU4rsaaMWHcBa-59zIj5A)
 - *2025.12.28*: &nbsp;于超（青稞 AI 嘉年华）— [**具身智能专题｜2025 “青稞” AI 嘉年华**](https://www.bilibili.com/video/BV1tDqwB2EZ5/)
 - *2025.12.25*: &nbsp;韦明杰（计算机视觉life）— [**RLinf-VLA框架技术报告——RL如何训练VLA？**](https://www.bilibili.com/video/BV1dxBoBLEWf/)
 - *2025.12.15*: &nbsp;张瑞泽、季世龙（深蓝）— [**NeurIPS'25 & CoRL'25｜无人机也能打排球吗？来看看清华团队的解决方案**](https://mp.weixin.qq.com/s/HvLJCr_PNsY0fsx1vS4CXQ)
