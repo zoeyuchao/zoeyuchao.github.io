@@ -11,13 +11,16 @@ main:
   - title: "Awards"
     url: "/#-awards"
 
-  - title: "Talks"
+  - title: "Invited Talks"
     url: "/#-talks"
 
-  - title: "Workshop"
+  - title: "Interview"
+    url: "/#-interview"
+
+  - title: "Hosted Workshop"
     url: "/#-workshop"
 
-  - title: "Live"
+  - title: "Team Live"
     url: "/#-live"
 
   - title: "Projects"

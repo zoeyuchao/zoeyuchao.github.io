@@ -118,6 +118,96 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
+<div class='paper-box floating-card' data-tags="2026, Preprint">
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">arXiv 2026</div>
+    <img src='images/harnessvla.png' alt="Harness VLA placeholder" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents</h3>
+    <div class="authors">Yixian Zhang⭐️, Huanming Zhang⭐️, Feng Gao, Xiao Li, Zhihao Liu, Chunyang Zhu, Jiaxing Qiu, Yuchen Yan, Jiyuan Liu, Wenhao Tang, Zhengru Fang, Yi Nie, Changxu Wei, Yu Wang, Wenbo Ding📧, <span class="primary-gradient-text">Chao Yu</span>📧</div>
+    <div class="venue">arXiv preprint arXiv:2607.08448 (2026)</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2607.08448" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card' data-tags="2026, Preprint">
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">arXiv 2026</div>
+    <img src='images/lamp.png' alt="LAMP placeholder" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>LAMP: Latent Motion Prior-Guided Real-World Learning for Dexterous Hand Manipulation</h3>
+    <div class="authors">Xinye Yang⭐️, Zhiyuan Ma⭐️, Hongze Yu📧, Yuanpei Chen, Yaodong Yang, Xiaojie Chai, Xinlei Chen, <span class="primary-gradient-text">Chao Yu</span>📧</div>
+    <div class="venue">arXiv preprint arXiv:2607.06323 (2026)</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2607.06323" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card' data-tags="2026, Preprint">
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">arXiv 2026</div>
+    <img src='images/steam.png' alt="STEAM placeholder" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>STEAM: Self-Supervised Temporal Ensemble Advantage Modeling for Real-World Robot Learning</h3>
+    <div class="authors">Zhihao Liu⭐️, Qiuyi Gu⭐️, Yitao Wang, Dongming Qiao, Yixian Zhang, Shuaihang Chen, Liangzhi Shi, Tianxing Zhou, Zefang Huang, Kang Chen, Zhen Guo, Quanlu Zhang, Jincheng Yu, Xiaodan Liang, Guoliang Fan, Yu Wang, Feng Gao, Xinlei Chen📧, <span class="primary-gradient-text">Chao Yu</span>📧</div>
+    <div class="venue">arXiv preprint arXiv:2606.29834 (2026)</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2606.29834" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card' data-tags="2026, Preprint">
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">arXiv 2026</div>
+    <img src='images/lawam.png' alt="LaWAM placeholder" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies</h3>
+    <div class="authors">Jialei Chen, Kai Wang, Kang Chen, Shuaihang Chen, Feng Gao, Wenhao Tang, Zhiyuan Li, Weilin Liu, Zhuyu Yao, Boxun Li, Yuanbo Xu📧, <span class="primary-gradient-text">Chao Yu</span>📧</div>
+    <div class="venue">arXiv preprint arXiv:2606.15768 (2026)</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2606.15768" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card' data-tags="2026, Preprint">
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">arXiv 2026</div>
+    <img src='images/verify.png' alt="Verifiable Process Rewards placeholder" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>Verifiable Process Rewards for Agentic Reasoning</h3>
+    <div class="authors">Huining Yuan⭐️, Zelai Xu, Huaijie Wang, Xiangmin Yi, Jiaxuan Gao, Xiao-Ping Zhang, Yu Wang📧, <span class="primary-gradient-text">Chao Yu</span>📧, Yi Wu📧</div>
+    <div class="venue">arXiv preprint arXiv:2605.10325 (2026)</div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2605.10325" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card' data-tags="2026, Preprint">
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">arXiv 2026</div>
+    <img src='images/streaming.png' alt="StreamingVLA placeholder" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation</h3>
+    <div class="authors">Yiran Shi, Dongqi Guo, Tianchen Zhao, Feng Gao, Liangzhi Shi, <span class="primary-gradient-text">Chao Yu</span>, ZhiJian Mo, Qihua Xiao, XiaoShuai Peng, Qingmin Liao, Yu Wang</div>
+    <div class="venue">arXiv preprint arXiv:2603.28565 (2026)</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2603.28565" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+    </div>
+  </div>
+</div>
+
 <div class='paper-box floating-card' data-tags="2026, Journal, CCF-B">
     <div class='paper-box-image'>
       <div class="badge pulse-accent">RA-L 2026</div>
@@ -1316,34 +1406,54 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2015*: &nbsp;National <span class="primary-gradient-text">Scholarship</span>, China Ministry of Education.
 
 <span class='anchor' id='-talks'></span>
-# 🎤 Talks
+# 🎤 Invited Talks
+- *2026.08.15*: &nbsp;[**CCF ADL173 期《具身智能机器人》论坛**](https://mp.weixin.qq.com/s/gqfwty6uYr_HcRp4IQYyHw)
+- *2026.07.19*: &nbsp;[**WAIC国地中心人形机器人与具身智能创新发展论坛报告**](https://mp.weixin.qq.com/s/h2LFwznlp_NDzTl7kPscTA)
+- *2026.07.12 - 2026.07.18*: &nbsp;[**RSS 2026 RL4VLA workshop**](https://mp.weixin.qq.com/s/YfC_vc-I6xebAR1_tlZa4Q)
+- *2026.06.13*: &nbsp;[**第8届智源大会强化学习论坛报告**](https://mp.weixin.qq.com/s/IR7QBVaLNWNhFK6XY6ZUNA)
+- *2026.06.05*: &nbsp;[**2026华为云INSPIRE创想者大会技术报告**](https://mp.weixin.qq.com/s/ibGUxZF3bIe_XkZ5v4bivw)
+- *2026.05.23*: &nbsp;[**蚂蚁集团 开源 Agentic AI 的技术底座：RL 赋能的大模型与真实世界落地报告**](https://mp.weixin.qq.com/s/FDudzltGtjE9kaJDKkVx0w)
+- *2026.04.11*: &nbsp;[**2026中国具身智能大会专题论坛：VLA何去何从？具身基础模型的突破与未来**](https://mp.weixin.qq.com/s/P537GUvomPe_EpijtZv82w)
+- *2026.04.11*: &nbsp;[**2026中国具身智能大会专题论坛：具身大模型与强化学习论坛**](https://mp.weixin.qq.com/s/QXKddqa3ccwsWYbtXXTkrw)
+- *2026.04.03*: &nbsp;[**中国中文信息学会具身智能专委会（筹）研讨会**](https://mp.weixin.qq.com/s/nhmQZR3b8LE3jGABuggiMg)
+- *2026.03.27*: &nbsp;[**2026中关村论坛人工智能主题日——“全球对话：探索人工智能时代教育科技人才一体化的新范式”专题论坛**](https://mp.weixin.qq.com/s/Yq2iOzUNEwpuSMXKuBwqww)
+- *2026.01.24*: &nbsp;于超（TEEC 清华企业家协会）— [**TEEC 清华企业家协会 Talk**](https://mp.weixin.qq.com/s/frKrRqjR2PO5AF-dT7PF8w)
+- *2026.01.05*: &nbsp;[**北京人形机器人创新中心报告**](https://mp.weixin.qq.com/s/EAoC-iDPpBPAwRnzlR126w)
+- *2025.12.20*: &nbsp;[**中国多智能体应用大会具身智能分论坛（成都）**](https://mp.weixin.qq.com/s/eZ6kfbdgqUN0ApGHg97tdA)
+- *2025.12.11*: &nbsp;[**北京亦庄开源社区校园行：北京人形开源走进清华，共探具身前沿技术与开源生态**](https://mp.weixin.qq.com/s/RRNFtlCKqR0lhhVC64MaFw)
+- *2025.12.04 - 2025.12.06*: &nbsp;[**CCLD2025 第二届全国大模型与决策智能大会——大模型与智能计算分论坛（苏州）**](https://mp.weixin.qq.com/s/DBouD5KitbpOSWqF32MT0g)
+- *2025.10.16*: &nbsp;[**PRCV 2025 多模态大模型高效训推技术论坛**](https://mp.weixin.qq.com/s/TOkEnuxwsFbC3_yOBvisag)
+- *2025.09.04*: &nbsp;[**北京量子院第一百五十六期量子科学论坛：强化学习驱动的决策智能**](https://mp.weixin.qq.com/s/YbeRhGLQwo0GXahNBpJ-iw)
+- *2025.06.24*: &nbsp;[**CASIA 第20期深度强化学习讲座系列报告：强化学习驱动的决策智能**](https://mp.weixin.qq.com/s/NhhfT8q5lX3tTrgnodGdlw)
+
+<span class='anchor' id='-interview'></span>
+# 💬 Interview
+- *2026.08.13*: &nbsp;[**一场闺蜜式夜谈：读懂学术界女性研究者的坚守与焦虑**](https://mp.weixin.qq.com/s/ThhcmY3niYAIYU73tnf8xg)
 - *2026.08.05*: &nbsp;[**智源专访：具身智能下一步，走向“模型 + 系统”协同**](https://mp.weixin.qq.com/s/KSXKy7nVAQ8eshrBRtGnUA)
-- *2026.07.19*: &nbsp;[**WAIC国地中心报告**](https://mp.weixin.qq.com/s/h2LFwznlp_NDzTl7kPscTA)
-- *2026.07.12 - 2026.07.18*: &nbsp;[**RSS workshop**](https://mp.weixin.qq.com/s/YfC_vc-I6xebAR1_tlZa4Q)
-- *2026.06.13*: &nbsp;[**智源大会报告**](https://mp.weixin.qq.com/s/IR7QBVaLNWNhFK6XY6ZUNA)
-- *2026.06.05*: &nbsp;[**华为云技术报告**](https://mp.weixin.qq.com/s/ibGUxZF3bIe_XkZ5v4bivw)
-- *2026.05.23*: &nbsp;[**杭州蚂蚁开源报告**](https://mp.weixin.qq.com/s/FDudzltGtjE9kaJDKkVx0w)
-- *2026.01.15*: &nbsp;[**北京人形机器人创新中心报告**](https://mp.weixin.qq.com/s/EAoC-iDPpBPAwRnzlR126w)
 
 <span class='anchor' id='-workshop'></span>
-# 🛠️ Workshop
-- [**从数据飞轮到世界模型，共话具身智能规模化：世界机器人大会-具身智能规模化探索论坛**](https://mp.weixin.qq.com/s/AccH8XkXNTp8rW5FQkLxcQ?scene=1&click_id=16)
-- [**智源大会强化学习论坛**](https://mp.weixin.qq.com/s/b9tEkD6uZvL7gSJx8lyp8Q)
-- [**Post-Training for RFM Workshop @ RSS2026**](https://mp.weixin.qq.com/s/oq53lGgo_ucDuUAkp4-HnA)
-- [**IROS 2026 Workshop**](https://mp.weixin.qq.com/s/cX0L_T3cyI32HriZunk8XA)
+# 🛠️ Hosted Workshop
+- *2026.09.27 - 2026.10.01*: &nbsp;[**The 2nd Human-aware Embodied AI Workshop (HEAI 2026) @ IROS 2026：让具身智能真正理解人、适应人**](https://mp.weixin.qq.com/s/cX0L_T3cyI32HriZunk8XA)
+- *2026.08.22*: &nbsp;[**具身智能规模化探索论坛：从数据飞轮到世界模型，共话具身智能规模化（2026 世界机器人大会）**](https://mp.weixin.qq.com/s/AccH8XkXNTp8rW5FQkLxcQ?scene=1&click_id=16)
+- *2026.07.13*: &nbsp;[**Post-Training for Robotics Foundation Models Workshop @ RSS 2026**](https://mp.weixin.qq.com/s/oq53lGgo_ucDuUAkp4-HnA)
+- *2026.06.13*: &nbsp;[**2026 北京智源大会强化学习论坛**](https://mp.weixin.qq.com/s/b9tEkD6uZvL7gSJx8lyp8Q)
+- *2025.09.20 - 2025.09.26*: &nbsp;**圆桌论道：CCF 决策智能会议暨 RLChina 2025**，学术论坛主席。
 
 <span class='anchor' id='-live'></span>
-# 📺 Live
+# 📺 Team Live
 - *2026.08.08*: &nbsp;张翼显（青稞）— [**从端到端 VLA 到 Harness VLA：面向具身智能与机器人操作任务的记忆增强式执行框架**](qingkeai.online)
 - *2026.07.29*: &nbsp;张翼显（XRobotics）— [**Harness VLA：可持续进化的具身智能体系统**](https://weixin.qq.com/sph/ASMB0IqMPD)
+- *2026.07.25*: &nbsp;刘志豪（青稞AI）— [**STEAM：无需人工标注的时序集成优势建模，让真实世界机器人学习更进一步！**](https://mp.weixin.qq.com/s/bqP1ucd2L7bk1kOul6aZ3w)
 - *2026.07.10*: &nbsp;刘志豪（Lumina）— [**STEAM：无需人工标注的时序集成优势建模，让真实世界机器人学习更进一步！**](https://mp.weixin.qq.com/s/bqP1ucd2L7bk1kOul6aZ3w)
+- *2026.07.10*: &nbsp;江震南、施良致、臧宏之（Lumina）— [**RLinf 真机系列工作 WoVR, RL-Co and USER**](https://mp.weixin.qq.com/s/ueU4rsaaMWHcBa-59zIj5A)
 - *2026.04.22*: &nbsp;徐哲轩、苑会宁、徐泽来（将门）— [**大模型在多智能体任务中的评估、训练与Scaling**](https://mp.weixin.qq.com/s/G-o5TURksIgVZGRsbDfqJw)
 - *2026.04.14*: &nbsp;苑会宁、张翼显（智源大厦 ICLR 分享）— [**ICLR 预讲会**](https://mp.weixin.qq.com/s/AzyUvWU6HKq7cJWOXkLUdg)
 - *2026.04.10*: &nbsp;施良致（3D视觉工坊）— [**只用20条真实数据训练机器人？RL-Co：强化学习驱动的仿真-真机协同训练**](https://mp.weixin.qq.com/s/g6p_Fl8dGk9qy1AksQiABg)
 - *2026.03.24*: &nbsp;徐哲轩（青稞）— [**从 Depth Scaling 到 Width Scaling！WideSeek-R1：通过多智能体 RL 探索大模型的广度扩展**](https://www.bilibili.com/video/BV1bgQSBnEs6/)
 - *2026.03.10*: &nbsp;臧宏之（青稞）— [**一起聊聊RLinf-USER：面向现实世界机器人在线策略学习的统一且可扩展系统**](https://mp.weixin.qq.com/s/2FjaoeuHsPEnAhVUPLOtVw)
 - *2026.03.08*: &nbsp;于舒昂（Xbotics）— [**RLinf-USER：真实世界在线进化，从系统瓶颈到统一高效，让具身智能真正“活起来”**](https://mp.weixin.qq.com/s/9VoCpyjsoqQL_7bCATKaEg)
-- *2026.07.10*: &nbsp;江震南、施良致、臧宏之（Lumina）— [**RLinf 真机系列工作 WoVR, RL-Co and USER**](https://mp.weixin.qq.com/s/ueU4rsaaMWHcBa-59zIj5A)
+- *2026.02.27*: &nbsp;江震南、施良致、臧宏之（Lumina）— [**RLinf 真机系列工作 WoVR, RL-Co and USER**](https://mp.weixin.qq.com/s/ueU4rsaaMWHcBa-59zIj5A)
+- *2026.01.15*: &nbsp;于超（Lumina 直播）— [**RLinf：VLA 模型的强化学习后训练系列研究**](https://mp.weixin.qq.com/s/d4zX9l1R65QtgXJ1PNZaCg)
 - *2025.12.28*: &nbsp;于超（青稞 AI 嘉年华）— [**具身智能专题｜2025 “青稞” AI 嘉年华**](https://www.bilibili.com/video/BV1tDqwB2EZ5/)
 - *2025.12.25*: &nbsp;韦明杰（计算机视觉life）— [**RLinf-VLA框架技术报告——RL如何训练VLA？**](https://www.bilibili.com/video/BV1dxBoBLEWf/)
 - *2025.12.15*: &nbsp;张瑞泽、季世龙（深蓝）— [**NeurIPS'25 & CoRL'25｜无人机也能打排球吗？来看看清华团队的解决方案**](https://mp.weixin.qq.com/s/HvLJCr_PNsY0fsx1vS4CXQ)
@@ -1358,7 +1468,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2025.11.10*: &nbsp;陈康（具身智能之心）— [**πRL：首个面向流匹配 VLA 的强化学习微调框架**](https://www.bilibili.com/video/BV1Hd2HB7EUy/)
 - *2025.10.31*: &nbsp;徐泽来、于超（B站）— [**2025 bilibili超级科学晚全程回顾**](https://b23.tv/nUEJHVU)
 - *2025.10.28*: &nbsp;高枫、臧宏之（具身智能之心）— [**SFT 还是RL，VLA到底应该如何训练？**](https://mp.weixin.qq.com/s/DMSuxBon8c9CNaAjU1vZZw)
-- *2025.07.18*: &nbsp;高枫（MSRA）— [**待补充标题**](待补充链接)
+- *2025.07.18*: &nbsp;高枫（MSRA）— [**What can rl bring to vla generalization?**](https://mp.weixin.qq.com/s/MxxzzzGSk2xORpJqCvgOkQ)
 
 <span class='anchor' id='-services'></span>
 # 👓 Projects
