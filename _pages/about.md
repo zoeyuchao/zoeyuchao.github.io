@@ -1407,9 +1407,10 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-talks'></span>
 # 🎤 Invited Talks
+- *2026.08.25*: &nbsp;**人民日报报告：具身智能前沿进展——基础设施角度**
 - *2026.08.15*: &nbsp;[**CCF ADL173 期《具身智能机器人》论坛**](https://mp.weixin.qq.com/s/gqfwty6uYr_HcRp4IQYyHw)
 - *2026.07.19*: &nbsp;[**WAIC国地中心人形机器人与具身智能创新发展论坛报告**](https://mp.weixin.qq.com/s/h2LFwznlp_NDzTl7kPscTA)
-- *2026.07.12 - 2026.07.18*: &nbsp;[**RSS 2026 RL4VLA workshop**](https://mp.weixin.qq.com/s/YfC_vc-I6xebAR1_tlZa4Q)
+- *2026.07.17*: &nbsp;[**RSS 2026 RL4VLA workshop**](https://mp.weixin.qq.com/s/YfC_vc-I6xebAR1_tlZa4Q)
 - *2026.06.13*: &nbsp;[**第8届智源大会强化学习论坛报告**](https://mp.weixin.qq.com/s/IR7QBVaLNWNhFK6XY6ZUNA)
 - *2026.06.05*: &nbsp;[**2026华为云INSPIRE创想者大会技术报告**](https://mp.weixin.qq.com/s/ibGUxZF3bIe_XkZ5v4bivw)
 - *2026.05.23*: &nbsp;[**蚂蚁集团 开源 Agentic AI 的技术底座：RL 赋能的大模型与真实世界落地报告**](https://mp.weixin.qq.com/s/FDudzltGtjE9kaJDKkVx0w)
@@ -1421,7 +1422,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2026.01.05*: &nbsp;[**北京人形机器人创新中心报告**](https://mp.weixin.qq.com/s/EAoC-iDPpBPAwRnzlR126w)
 - *2025.12.20*: &nbsp;[**中国多智能体应用大会具身智能分论坛（成都）**](https://mp.weixin.qq.com/s/eZ6kfbdgqUN0ApGHg97tdA)
 - *2025.12.11*: &nbsp;[**北京亦庄开源社区校园行——北京人形开源走进清华，共探具身前沿技术与开源生态**](https://mp.weixin.qq.com/s/RRNFtlCKqR0lhhVC64MaFw)
-- *2025.12.04 - 2025.12.06*: &nbsp;[**CCLD2025 第二届全国大模型与决策智能大会——大模型与智能计算分论坛（苏州）**](https://mp.weixin.qq.com/s/DBouD5KitbpOSWqF32MT0g)
+- *2025.12.04*: &nbsp;[**CCLD2025 第二届全国大模型与决策智能大会——大模型与智能计算分论坛（苏州）**](https://mp.weixin.qq.com/s/DBouD5KitbpOSWqF32MT0g)
 - *2025.10.16*: &nbsp;[**PRCV 2025 多模态大模型高效训推技术论坛**](https://mp.weixin.qq.com/s/TOkEnuxwsFbC3_yOBvisag)
 - *2025.09.04*: &nbsp;[**北京量子院第一百五十六期量子科学论坛：强化学习驱动的决策智能**](https://mp.weixin.qq.com/s/YbeRhGLQwo0GXahNBpJ-iw)
 - *2025.06.24*: &nbsp;[**CASIA 第20期深度强化学习讲座系列报告：强化学习驱动的决策智能**](https://mp.weixin.qq.com/s/NhhfT8q5lX3tTrgnodGdlw)
