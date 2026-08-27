@@ -1417,10 +1417,10 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2026.04.11*: &nbsp;[**2026中国具身智能大会专题论坛：具身大模型与强化学习论坛**](https://mp.weixin.qq.com/s/QXKddqa3ccwsWYbtXXTkrw)
 - *2026.04.03*: &nbsp;[**中国中文信息学会具身智能专委会（筹）研讨会**](https://mp.weixin.qq.com/s/nhmQZR3b8LE3jGABuggiMg)
 - *2026.03.27*: &nbsp;[**2026中关村论坛人工智能主题日——“全球对话：探索人工智能时代教育科技人才一体化的新范式”专题论坛**](https://mp.weixin.qq.com/s/Yq2iOzUNEwpuSMXKuBwqww)
-- *2026.01.24*: &nbsp;于超（TEEC 清华企业家协会）— [**TEEC 清华企业家协会 Talk**](https://mp.weixin.qq.com/s/frKrRqjR2PO5AF-dT7PF8w)
+- *2026.01.24*: &nbsp;[**TEEC 清华企业家协会 Talk**](https://mp.weixin.qq.com/s/frKrRqjR2PO5AF-dT7PF8w)
 - *2026.01.05*: &nbsp;[**北京人形机器人创新中心报告**](https://mp.weixin.qq.com/s/EAoC-iDPpBPAwRnzlR126w)
 - *2025.12.20*: &nbsp;[**中国多智能体应用大会具身智能分论坛（成都）**](https://mp.weixin.qq.com/s/eZ6kfbdgqUN0ApGHg97tdA)
-- *2025.12.11*: &nbsp;[**北京亦庄开源社区校园行：北京人形开源走进清华，共探具身前沿技术与开源生态**](https://mp.weixin.qq.com/s/RRNFtlCKqR0lhhVC64MaFw)
+- *2025.12.11*: &nbsp;[**北京亦庄开源社区校园行——北京人形开源走进清华，共探具身前沿技术与开源生态**](https://mp.weixin.qq.com/s/RRNFtlCKqR0lhhVC64MaFw)
 - *2025.12.04 - 2025.12.06*: &nbsp;[**CCLD2025 第二届全国大模型与决策智能大会——大模型与智能计算分论坛（苏州）**](https://mp.weixin.qq.com/s/DBouD5KitbpOSWqF32MT0g)
 - *2025.10.16*: &nbsp;[**PRCV 2025 多模态大模型高效训推技术论坛**](https://mp.weixin.qq.com/s/TOkEnuxwsFbC3_yOBvisag)
 - *2025.09.04*: &nbsp;[**北京量子院第一百五十六期量子科学论坛：强化学习驱动的决策智能**](https://mp.weixin.qq.com/s/YbeRhGLQwo0GXahNBpJ-iw)
@@ -1433,7 +1433,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-workshop'></span>
 # 🛠️ Hosted Workshop
-- *2026.09.27 - 2026.10.01*: &nbsp;[**The 2nd Human-aware Embodied AI Workshop (HEAI 2026) @ IROS 2026：让具身智能真正理解人、适应人**](https://mp.weixin.qq.com/s/cX0L_T3cyI32HriZunk8XA)
+- *2026.09.27 - 2026.10.01*: &nbsp;[**IROS 2026 Building Scalable Infrastructure for Robot Learning: From Data Scaling to Real-World Deployment Workshop**](https://mp.weixin.qq.com/s/cX0L_T3cyI32HriZunk8XA)
 - *2026.08.22*: &nbsp;作为联合论坛主席在[**2026 世界机器人大会**](https://mp.weixin.qq.com/s/AccH8XkXNTp8rW5FQkLxcQ?scene=1&click_id=16)举办具身智能规模化探索论坛，并担任会议及圆桌主持人。
 - *2026.07.13*: &nbsp;[**Post-Training for Robotics Foundation Models Workshop @ RSS 2026**](https://mp.weixin.qq.com/s/oq53lGgo_ucDuUAkp4-HnA)
 - *2026.06.13*: &nbsp;作为联合论坛主席在[**第 8 届智源大会**](https://mp.weixin.qq.com/s/b9tEkD6uZvL7gSJx8lyp8Q)举办强化学习论坛，并作报告。
