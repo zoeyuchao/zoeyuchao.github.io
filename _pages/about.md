@@ -163,15 +163,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class='paper-box floating-card' data-tags="2026, Preprint">
+<div class='paper-box floating-card' data-tags="2026, CCF-A">
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">arXiv 2026</div>
+    <div class="badge pulse-accent">CoRL 2026</div>
     <img src='images/lawam.png' alt="LaWAM placeholder" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies</h3>
     <div class="authors">Jialei Chen, Kai Wang, Kang Chen, Shuaihang Chen, Feng Gao, Wenhao Tang, Zhiyuan Li, Weilin Liu, Zhuyu Yao, Boxun Li, Yuanbo Xu📧, <span class="primary-gradient-text">Chao Yu</span>📧</div>
-    <div class="venue">arXiv preprint arXiv:2606.15768 (2026)</div>
+    <div class="venue">Conference on Robot Learning (CoRL 2026)</div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2606.15768" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
     </div>
@@ -282,30 +282,30 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
 
-  <div class='paper-box floating-card' data-tags="2026, Preprint">
+  <div class='paper-box floating-card' data-tags="2026, CCF-A">
     <div class='paper-box-image'>
-      <div class="badge pulse-accent">arXiv 2026</div>
+      <div class="badge pulse-accent">CoRL 2026</div>
       <img src='images/wovr.png' alt="WoVR" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL</h3>
       <div class="authors">Zhennan Jiang, Shangqing Zhou, Yutong Jiang, Zefang Huang, Mingjie Wei, Yuhui Chen, Tianxing Zhou, Zhen Guo, Hao Lin, Quanlu Zhang, Yu Wang, Haoran Li📧, <span class="primary-gradient-text">Chao Yu</span>📧, Dongbin Zhao</div>
-      <div class="venue">arXiv preprint arXiv:2602.13977 (2026)</div>
+      <div class="venue">Conference on Robot Learning (CoRL 2026)</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2602.13977" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
     </div>
   </div>
 
-  <div class='paper-box floating-card' data-tags="2026, Preprint">
+  <div class='paper-box floating-card' data-tags="2026, CCF-A">
     <div class='paper-box-image'>
-      <div class="badge pulse-accent">arXiv 2026</div>
+      <div class="badge pulse-accent">CoRL 2026</div>
       <img src='images/beyondlim.png' alt="Beyond Imitation" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>Beyond Imitation: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models</h3>
-      <div class="authors">Liangzhi Shi⭐️, Shuaihang Chen⭐️, Feng Gao, Yinuo Chen, Kang Chen, Tonghe Zhang, Hongzhi Zang, Weinan Zhang, <span class="primary-gradient-text">Chao Yu</span>, Yu Wang</div>
-      <div class="venue">arXiv preprint arXiv:2602.12628 (2026)</div>
+      <div class="authors">Liangzhi Shi⭐️, Shuaihang Chen⭐️, Feng Gao, Yinuo Chen, Kang Chen, Tonghe Zhang, Hongzhi Zang, Weinan Zhang, <span class="primary-gradient-text">Chao Yu</span>📧, Yu Wang</div>
+      <div class="venue">Conference on Robot Learning (CoRL 2026)</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2602.12628" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
