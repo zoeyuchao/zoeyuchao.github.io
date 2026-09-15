@@ -553,15 +553,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
 
-  <div class='paper-box floating-card' data-tags="2025, Preprint">
+  <div class='paper-box floating-card' data-tags="2026, Journal">
     <div class='paper-box-image'>
-      <div class="badge pulse-accent">arXiv 2025</div>
+      <div class="badge pulse-accent">MIR 2026</div>
       <img src='images/risks.png' alt="Secondary Risks" width="100%">
     </div>
     <div class='paper-box-text'>
       <h3>Exploring the Secondary Risks of Large Language Models</h3>
       <div class="authors">Jiawei Chen, Zhengwei Fang, Xiao Yang, <span class="primary-gradient-text">Chao Yu</span>, Zhaoxia Yin, Hang Su</div>
-      <div class="venue">arXiv preprint arXiv:2506.12382 (2025)</div>
+      <div class="venue">Machine Intelligence Research (MIR 2026)</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2506.12382" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
       </div>
@@ -1408,6 +1408,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-talks'></span>
 # 🎤 Invited Talks
+- *2026.09.17*: &nbsp;**NVIDIA（英伟达）Invited Talk**
 - *2026.09.10*: &nbsp;**2026 GEIA 粤港澳大湾区具身智能与人形机器人创新周（深圳）**
 - *2026.08.25*: &nbsp;**人民日报报告：具身智能前沿进展——基础设施角度**
 - *2026.08.15*: &nbsp;[**CCF ADL173 期《具身智能机器人》论坛**](https://mp.weixin.qq.com/s/gqfwty6uYr_HcRp4IQYyHw)
