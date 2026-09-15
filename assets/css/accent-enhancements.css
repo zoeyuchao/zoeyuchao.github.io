@@ -807,29 +807,28 @@ body {
   }
 }
 
-/* Keep Hosted Workshop dates and descriptions aligned without changing list styling. */
-.hosted-workshop-list li {
-  padding-left: 15.25em;
-  text-indent: -15.25em;
+/* Keep Hosted Workshop dates and descriptions in stable, responsive columns. */
+.hosted-workshop-row {
+  display: grid;
+  grid-template-columns: 14.6em minmax(0, 1fr);
+  column-gap: 0.65em;
+  align-items: baseline;
 }
 
-.hosted-workshop-list li > em:first-child {
-  display: inline-block;
-  width: 14.6em;
-  text-align: right;
+.hosted-workshop-date {
+  font-style: italic;
   font-variant-numeric: tabular-nums;
   white-space: nowrap;
 }
 
-@media (max-width: 768px) {
-  .hosted-workshop-list li {
-    padding-left: 0;
-    text-indent: 0;
-  }
+.hosted-workshop-row > span:last-child {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
 
-  .hosted-workshop-list li > em:first-child {
-    display: inline;
-    width: auto;
-    text-align: left;
+@media (max-width: 768px) {
+  .hosted-workshop-row {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: 0.15em;
   }
 }
