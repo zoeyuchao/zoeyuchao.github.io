@@ -1393,6 +1393,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-awards'></span>
 # 🏆 Awards
+- *2026*: &nbsp;Selected for MIT Technology Review <span class="primary-gradient-text">Innovators Under 35 Asia Pacific</span> (TR35 Asia Pacific) / 入选《麻省理工科技评论》亚太区“35岁以下科技创新35人”.
 - *2024*: &nbsp;China Postdoctoral Excellent Special <span class="primary-gradient-text">Foundation</span> (Top 1,000 nationwide), Chinese Postdoctoral Science Foundation (CPSF).
 - *2024*: &nbsp;Postdoctoral <span class="primary-gradient-text">Fellowship</span> Program (Top 3,000 nationwide), Chinese Postdoctoral Science Foundation (CPSF).
 - *2024*: &nbsp;Runner-up for Outstanding Doctoral <span class="primary-gradient-text">Thesis</span> (Top 5), Chinese Intelligent Agent and Multi-Agent Systems.
@@ -1435,14 +1436,21 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-workshop'></span>
 # 🛠️ Hosted Workshop
+<div class="hosted-workshop-list" markdown="1">
+
+- *2026.11.21*: &nbsp;**中国电子学会青年论坛：具身基座模型前沿探索（深圳）**，论坛主席。
+- *2026.11.07*: &nbsp;**RLChina 2026：开源基础设施与人才培养（上海）**，论坛主席。
 - *2026.09.27 - 2026.10.01*: &nbsp;[**IROS 2026 Building Scalable Infrastructure for Robot Learning: From Data Scaling to Real-World Deployment Workshop**](https://mp.weixin.qq.com/s/cX0L_T3cyI32HriZunk8XA)
 - *2026.08.22*: &nbsp;作为联合论坛主席在[**2026 世界机器人大会**](https://mp.weixin.qq.com/s/AccH8XkXNTp8rW5FQkLxcQ?scene=1&click_id=16)举办具身智能规模化探索论坛，并担任会议及圆桌主持人。
 - *2026.07.13*: &nbsp;[**Post-Training for Robotics Foundation Models Workshop @ RSS 2026**](https://mp.weixin.qq.com/s/oq53lGgo_ucDuUAkp4-HnA)
 - *2026.06.13*: &nbsp;作为联合论坛主席在[**第 8 届智源大会**](https://mp.weixin.qq.com/s/b9tEkD6uZvL7gSJx8lyp8Q)举办强化学习论坛，并作报告。
 - *2025.09.20 - 2025.09.26*: &nbsp;**圆桌论道：CCF 决策智能会议暨 RLChina 2025**，学术论坛主席。
 
+</div>
+
 <span class='anchor' id='-live'></span>
 # 📺 Team Live
+- *2026.09.15*: &nbsp;张翼显（具身智能之心）— [**Coding Agent 在具身世界能走多远？Harness VLA 对机器人操作边界的探索**](https://mp.weixin.qq.com/s/E1ODXbz4W0ddO0HRp-tjjQ)
 - *2026.08.08*: &nbsp;张翼显（青稞）— [**从端到端 VLA 到 Harness VLA：面向具身智能与机器人操作任务的记忆增强式执行框架**](qingkeai.online)
 - *2026.07.29*: &nbsp;张翼显（XRobotics）— [**Harness VLA：可持续进化的具身智能体系统**](https://weixin.qq.com/sph/ASMB0IqMPD)
 - *2026.07.25*: &nbsp;刘志豪（青稞AI）— [**STEAM：无需人工标注的时序集成优势建模，让真实世界机器人学习更进一步！**](https://mp.weixin.qq.com/s/bqP1ucd2L7bk1kOul6aZ3w)

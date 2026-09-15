@@ -805,4 +805,31 @@ body {
   .blog-grid {
     grid-template-columns: repeat(3, 1fr);
   }
-} 
+}
+
+/* Keep Hosted Workshop dates and descriptions aligned without changing list styling. */
+.hosted-workshop-list li {
+  padding-left: 15.25em;
+  text-indent: -15.25em;
+}
+
+.hosted-workshop-list li > em:first-child {
+  display: inline-block;
+  width: 14.6em;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .hosted-workshop-list li {
+    padding-left: 0;
+    text-indent: 0;
+  }
+
+  .hosted-workshop-list li > em:first-child {
+    display: inline;
+    width: auto;
+    text-align: left;
+  }
+}
