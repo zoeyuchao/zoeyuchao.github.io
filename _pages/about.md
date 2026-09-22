@@ -26,12 +26,6 @@ My name is <span class="accent-text">Chao Yu（于超）</span>. I received my P
 
 Feel free to reach out if you'd like to discuss research or explore potential collaboration!
 
-<span class='anchor' id='-news'></span>
-# 📰 News
-- *2026.09.21*: &nbsp;[**GPT-6 Astra 走向机器人，开源基础设施 RPent 正式上线了！**](https://mp.weixin.qq.com/s/VxbuJRxJGxFbzai_DrZ6AQ) [开源代码](https://github.com/RLinf/RPent)
-- *2026.09.20*: &nbsp;[**RLinf × SGLang：Cosmos3 从模型微调到高效评测的全流程集成实践分享**](https://mp.weixin.qq.com/s/4w-085A4Yk5WJk2wNGpdMw?scene=1&click_id=2) [SGLang 官方推送](https://www.sglang.io/blog/rlinf-sglang-cosmos3)
-- *2026.09.12*: &nbsp;[**RLinf 开源一周年茶话会**](https://mp.weixin.qq.com/s/VitHi0OADwVHEuoQgjcETQ)
-
 # 📃 Research Interest
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
