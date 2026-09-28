@@ -1408,15 +1408,15 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-talks'></span>
 # 🎤 Invited Talks
-- *2026.09.23*: &nbsp;**河套学院 AI Seminar 第 55 期：Embodied Intelligence Reinforcement Learning Training and Intelligent Infrastructure Exploration**
-- *2026.09.19*: &nbsp;**摩尔线程 MUSA 开源技术沙龙 RLinf × MUSA Meetup：面向具身智能的高灵活大规模强化学习框架 RLinf**
+- *2026.09.23*: &nbsp;[**河套学院 AI Seminar 第 55 期：Embodied Intelligence Reinforcement Learning Training and Intelligent Infrastructure Exploration**](images/hetu-ai-seminar-55.jpg)
+- *2026.09.19*: &nbsp;[**摩尔线程 MUSA 开源技术沙龙 RLinf × MUSA Meetup：面向具身智能的高灵活大规模强化学习框架 RLinf**](https://mp.weixin.qq.com/s/0WpDmzfGVwTIIrzj-YxqcA)
 - *2026.09.18*: &nbsp;**NVIDIA（英伟达）Invited Talk**
 - *2026.09.12*: &nbsp;[**RLinf 开源一周年研发回顾 Meetup**](https://mp.weixin.qq.com/s/WEC33uTTJyxSvN8Y0lzAww)
 - *2026.09.10*: &nbsp;**2026 GEIA 粤港澳大湾区具身智能与人形机器人创新周（深圳）**
 - *2026.08.25*: &nbsp;**人民日报报告：具身智能前沿进展——基础设施角度**
 - *2026.08.15*: &nbsp;[**CCF ADL173 期《具身智能机器人》论坛**](https://mp.weixin.qq.com/s/gqfwty6uYr_HcRp4IQYyHw)
 - *2026.07.19*: &nbsp;[**WAIC国地中心人形机器人与具身智能创新发展论坛报告**](https://mp.weixin.qq.com/s/h2LFwznlp_NDzTl7kPscTA)
-- *2026.07.17*: &nbsp;[**RSS 2026 RL4VLA workshop**](https://mp.weixin.qq.com/s/YfC_vc-I6xebAR1_tlZa4Q)
+- *2026.07.17*: &nbsp;[**RSS 2026 RL4VLA workshop**](https://sites.google.com/view/rl4vla-workshop)
 - *2026.06.13*: &nbsp;[**第8届智源大会强化学习论坛报告**](https://mp.weixin.qq.com/s/IR7QBVaLNWNhFK6XY6ZUNA)
 - *2026.06.05*: &nbsp;[**2026华为云INSPIRE创想者大会技术报告**](https://mp.weixin.qq.com/s/ibGUxZF3bIe_XkZ5v4bivw)
 - *2026.05.23*: &nbsp;[**蚂蚁集团 开源 Agentic AI 的技术底座：RL 赋能的大模型与真实世界落地报告**](https://mp.weixin.qq.com/s/FDudzltGtjE9kaJDKkVx0w)
