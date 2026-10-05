@@ -1408,7 +1408,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-talks'></span>
 # 🎤 Invited Talks
-- *2026.09.23*: &nbsp;[**河套学院 AI Seminar 第 55 期：Embodied Intelligence Reinforcement Learning Training and Intelligent Infrastructure Exploration**](images/hetu-ai-seminar-55.jpg)
+- *2026.09.23*: &nbsp;[**河套学院 AI Seminar 第 55 期：Embodied Intelligence Reinforcement Learning Training and Intelligent Infrastructure Exploration**](https://mp.weixin.qq.com/s/4Ab9IPX62LsAPDEwmHT4_w)
 - *2026.09.19*: &nbsp;[**摩尔线程 MUSA 开源技术沙龙 RLinf × MUSA Meetup：面向具身智能的高灵活大规模强化学习框架 RLinf**](https://mp.weixin.qq.com/s/0WpDmzfGVwTIIrzj-YxqcA)
 - *2026.09.18*: &nbsp;**NVIDIA（英伟达）Invited Talk**
 - *2026.09.12*: &nbsp;[**RLinf 开源一周年研发回顾 Meetup**](https://mp.weixin.qq.com/s/WEC33uTTJyxSvN8Y0lzAww)
