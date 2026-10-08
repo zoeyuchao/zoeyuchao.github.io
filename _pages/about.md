@@ -1398,6 +1398,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <span class='anchor' id='-awards'></span>
 # 🏆 Awards
 - *2026*: &nbsp;Selected for MIT Technology Review <span class="primary-gradient-text">Innovators Under 35 Asia Pacific</span> (TR35 Asia Pacific) / 入选《麻省理工科技评论》亚太区“35岁以下科技创新35人”.
+- *2026*: &nbsp;<a href="https://developer.nvidia.cn/community/nvp" class="link-accent"><span class="primary-gradient-text">NVIDIA Valuable Professional for China Developers (NVP)</span></a>.
 - *2024*: &nbsp;China Postdoctoral Excellent Special <span class="primary-gradient-text">Foundation</span> (Top 1,000 nationwide), Chinese Postdoctoral Science Foundation (CPSF).
 - *2024*: &nbsp;Postdoctoral <span class="primary-gradient-text">Fellowship</span> Program (Top 3,000 nationwide), Chinese Postdoctoral Science Foundation (CPSF).
 - *2024*: &nbsp;Runner-up for Outstanding Doctoral <span class="primary-gradient-text">Thesis</span> (Top 5), Chinese Intelligent Agent and Multi-Agent Systems.
