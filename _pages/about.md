@@ -1406,6 +1406,10 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2019 - 2023*: &nbsp;First-Class <span class="primary-gradient-text">Scholarship</span> (3 times), Tsinghua University.
 - *2015*: &nbsp;National <span class="primary-gradient-text">Scholarship</span>, China Ministry of Education.
 
+<span class='anchor' id='-academic-service'></span>
+# 🧑‍⚖️ Academic Service
+- **Area Chair, International Conference on Learning Representations**
+
 <span class='anchor' id='-talks'></span>
 # 🎤 Invited Talks
 - *2026.10.15*: &nbsp;[**学长话前程第 74 期——于超：具身智能强化学习训练与智能体化基础设施探索**](https://mp.weixin.qq.com/s/DLQg0vT97QST-75v3Nd5CQ)
