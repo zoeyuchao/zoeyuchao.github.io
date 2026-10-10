@@ -293,7 +293,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
     <div class='paper-box-text'>
       <h3>WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL</h3>
-      <div class="authors">Zhennan Jiang, Shangqing Zhou, Yutong Jiang, Zefang Huang, Mingjie Wei, Yuhui Chen, Tianxing Zhou, Zhen Guo, Hao Lin, Quanlu Zhang, Yu Wang, Haoran Li📧, <span class="primary-gradient-text">Chao Yu</span>📧, Dongbin Zhao</div>
+      <div class="authors">Zhennan Jiang, Shangqing Zhou, Yutong Jiang, Zefang Huang, Mingjie Wei, Yuhui Chen, Tianxing Zhou, Zhen Guo, Hao Lin, Quanlu Zhang, Yu Wang, Dongbin Zhao, Haoran Li📧, <span class="primary-gradient-text">Chao Yu</span>📧</div>
       <div class="venue">Conference on Robot Learning (CoRL 2026)</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2602.13977" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
@@ -488,7 +488,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
     <div class='paper-box-text'>
       <h3>World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation</h3>
-      <div class="authors">Zhennan Jiang, Kai Liu, Yuxin Qin, Shuai Tian, Yupeng Zheng, Mingcai Zhou, <span class="primary-gradient-text">Chao Yu</span>📧, Haoran Li📧, Dongbin Zhao</div>
+      <div class="authors">Zhennan Jiang, Kai Liu, Yuxin Qin, Shuai Tian, Yupeng Zheng, Mingcai Zhou, <span class="primary-gradient-text">Chao Yu</span>, Haoran Li📧, Dongbin Zhao</div>
       <div class="venue">IEEE Robotics and Automation Letters (RA-L 2026)</div>
       <div class="links">
         <a href="https://arxiv.org/abs/2509.19080" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
