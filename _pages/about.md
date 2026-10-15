@@ -1417,6 +1417,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-talks'></span>
 # 🎤 Invited Talks
+- *2026.10.16*: &nbsp;[**星河 TALK：机器人如何自主进化？RL × VLA**](https://xhslink.cn/o/5Uj0FwmyzLy)
 - *2026.10.15*: &nbsp;[**学长话前程第 74 期——于超：具身智能强化学习训练与智能体化基础设施探索**](https://mp.weixin.qq.com/s/DLQg0vT97QST-75v3Nd5CQ)
 - *2026.09.23*: &nbsp;[**河套学院 AI Seminar 第 55 期：Embodied Intelligence Reinforcement Learning Training and Intelligent Infrastructure Exploration**](https://mp.weixin.qq.com/s/4Ab9IPX62LsAPDEwmHT4_w)
 - *2026.09.21*: &nbsp;[**清华大学-美团学术论坛：具身智能强化学习训练与智能体化基础设施探索**](https://mp.weixin.qq.com/s/QB6B6QK7cEelGp8LTO4gVA)
@@ -1463,7 +1464,6 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-live'></span>
 # 📺 Team Live
-- *2026.10.16*: &nbsp;于超（星河 TALK）— [**机器人如何自主进化？RL × VLA**](https://xhslink.cn/o/5Uj0FwmyzLy)
 - *2026.09.15*: &nbsp;张翼显（具身智能之心）— [**Coding Agent 在具身世界能走多远？Harness VLA 对机器人操作边界的探索**](https://mp.weixin.qq.com/s/E1ODXbz4W0ddO0HRp-tjjQ)
 - *2026.08.08*: &nbsp;张翼显（青稞）— [**从端到端 VLA 到 Harness VLA：面向具身智能与机器人操作任务的记忆增强式执行框架**](qingkeai.online)
 - *2026.07.29*: &nbsp;张翼显（XRobotics）— [**Harness VLA：可持续进化的具身智能体系统**](https://weixin.qq.com/sph/ASMB0IqMPD)
