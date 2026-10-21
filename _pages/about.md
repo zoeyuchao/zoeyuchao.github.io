@@ -1413,8 +1413,8 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-academic-service'></span>
 # 🧑‍⚖️ Academic Service
-- **Area Chair, International Conference on Machine Learning**
-- **Area Chair, International Conference on Learning Representations**
+- **Area Chair, International Conference on Machine Learning (ICML, CCF-A)**
+- **Area Chair, International Conference on Learning Representations (ICLR, CCF-A)**
 
 <span class='anchor' id='-talks'></span>
 # 🎤 Invited Talks
