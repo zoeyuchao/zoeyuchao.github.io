@@ -1413,6 +1413,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-academic-service'></span>
 # 🧑‍⚖️ Academic Service
+- **Area Chair, International Conference on Machine Learning**
 - **Area Chair, International Conference on Learning Representations**
 
 <span class='anchor' id='-talks'></span>
@@ -1432,9 +1433,12 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 - *2026.06.13*: &nbsp;[**第8届智源大会强化学习论坛报告**](https://mp.weixin.qq.com/s/IR7QBVaLNWNhFK6XY6ZUNA)
 - *2026.06.05*: &nbsp;[**2026华为云INSPIRE创想者大会技术报告**](https://mp.weixin.qq.com/s/ibGUxZF3bIe_XkZ5v4bivw)
 - *2026.05.23*: &nbsp;[**蚂蚁集团 开源 Agentic AI 的技术底座：RL 赋能的大模型与真实世界落地报告**](https://mp.weixin.qq.com/s/FDudzltGtjE9kaJDKkVx0w)
+- *2026.05.09*: &nbsp;**第十六届视觉与学习青年学者研讨会（武汉）：迈向具身决策智能：强化学习算法与基础设施协同演进**
+- *2026.04.15*: &nbsp;**北京智源研究院报告：RLinf 系列开发故事线——算法驱动的具身智能大规模强化学习系统研究**
 - *2026.04.11*: &nbsp;[**2026中国具身智能大会专题论坛：VLA何去何从？具身基础模型的突破与未来**](https://mp.weixin.qq.com/s/P537GUvomPe_EpijtZv82w)
 - *2026.04.11*: &nbsp;[**2026中国具身智能大会专题论坛：具身大模型与强化学习论坛**](https://mp.weixin.qq.com/s/QXKddqa3ccwsWYbtXXTkrw)
 - *2026.04.03*: &nbsp;[**中国中文信息学会具身智能专委会（筹）研讨会**](https://mp.weixin.qq.com/s/nhmQZR3b8LE3jGABuggiMg)
+- *2026.03.28*: &nbsp;**华为引望 GTC Workshop（深圳）：高能效人工智能基础设施：RLinf 系列开发故事线——算法驱动的具身智能大规模强化学习系统研究**
 - *2026.03.27*: &nbsp;[**2026中关村论坛人工智能主题日——“全球对话：探索人工智能时代教育科技人才一体化的新范式”专题论坛**](https://mp.weixin.qq.com/s/Yq2iOzUNEwpuSMXKuBwqww)
 - *2026.01.24*: &nbsp;[**TEEC 清华企业家协会 Talk**](https://mp.weixin.qq.com/s/frKrRqjR2PO5AF-dT7PF8w)
 - *2026.01.05*: &nbsp;[**北京人形机器人创新中心报告**](https://mp.weixin.qq.com/s/EAoC-iDPpBPAwRnzlR126w)
