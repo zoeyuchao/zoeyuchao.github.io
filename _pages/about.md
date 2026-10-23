@@ -1418,6 +1418,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-talks'></span>
 # 🎤 Invited Talks
+- *2026.10.18*: &nbsp;[**第七届 CCF 中国智能机器人学术年会：具身智能体基础设施探索**](https://mp.weixin.qq.com/s/lAeNNG_m71Z6wlc7cYovnQ)
 - *2026.10.16*: &nbsp;[**星河 TALK：机器人如何自主进化？RL × VLA**](https://xhslink.cn/o/5Uj0FwmyzLy)
 - *2026.10.15*: &nbsp;[**学长话前程第 74 期——于超：具身智能强化学习训练与智能体化基础设施探索**](https://mp.weixin.qq.com/s/DLQg0vT97QST-75v3Nd5CQ)
 - *2026.09.23*: &nbsp;[**河套学院 AI Seminar 第 55 期：Embodied Intelligence Reinforcement Learning Training and Intelligent Infrastructure Exploration**](https://mp.weixin.qq.com/s/4Ab9IPX62LsAPDEwmHT4_w)
@@ -1457,13 +1458,14 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <span class='anchor' id='-workshop'></span>
 # 🛠️ Hosted Workshop
 <ul class="hosted-workshop-list">
-  <li><span class="hosted-workshop-row"><span class="hosted-workshop-date">2026.11.21:</span><span><strong>中国电子学会青年论坛：具身基座模型前沿探索（深圳）</strong>，论坛主席。</span></span></li>
+  <li><span class="hosted-workshop-row"><span class="hosted-workshop-date">2026.11.21:</span><span><strong>中国电子学会青年论坛：具身基座模型前沿探索（深圳）</strong>，联合论坛主席。</span></span></li>
   <li><span class="hosted-workshop-row"><span class="hosted-workshop-date">2026.11.07:</span><span><strong>RLChina 2026：开源基础设施与人才培养（上海）</strong>，论坛主席。</span></span></li>
+  <li><span class="hosted-workshop-row"><span class="hosted-workshop-date">2026.10.22 - 2026.10.26:</span><span><strong>奇点科学会议（梦溪）</strong>，会议执行主席。</span></span></li>
   <li><span class="hosted-workshop-row"><span class="hosted-workshop-date">2026.10.01:</span><span>清华大学于超教授等领域学者组织 <a href="https://scale-infra.github.io/iros2026/"><strong>IROS 2026 “Building Scalable Infrastructure for Robot Learning: From Data Scaling to Real-World Deployment” Workshop</strong></a>，徐梦迪、丁琰、光轮和英伟达等受邀分享。<a href="https://mp.weixin.qq.com/s/ZVqPDsye7HkpSlylnl1nDA">活动回顾</a></span></span></li>
   <li><span class="hosted-workshop-row"><span class="hosted-workshop-date">2026.08.22:</span><span>作为联合论坛主席在<a href="https://mp.weixin.qq.com/s/AccH8XkXNTp8rW5FQkLxcQ?scene=1&amp;click_id=16"><strong>2026 世界机器人大会</strong></a>举办具身智能规模化探索论坛，并担任会议及圆桌主持人。</span></span></li>
   <li><span class="hosted-workshop-row"><span class="hosted-workshop-date">2026.07.13:</span><span><a href="https://mp.weixin.qq.com/s/oq53lGgo_ucDuUAkp4-HnA"><strong>Post-Training for Robotics Foundation Models Workshop @ RSS 2026</strong></a></span></span></li>
   <li><span class="hosted-workshop-row"><span class="hosted-workshop-date">2026.06.13:</span><span>作为联合论坛主席在<a href="https://mp.weixin.qq.com/s/b9tEkD6uZvL7gSJx8lyp8Q"><strong>第 8 届智源大会</strong></a>举办强化学习论坛，并作报告。</span></span></li>
-  <li><span class="hosted-workshop-row"><span class="hosted-workshop-date">2025.09.20 - 2025.09.26:</span><span><strong>圆桌论道：CCF 决策智能会议暨 RLChina 2025</strong>，学术论坛主席。</span></span></li>
+  <li><span class="hosted-workshop-row"><span class="hosted-workshop-date">2025.09.20 - 2025.09.26:</span><span><strong>圆桌论道：CCF 决策智能会议暨 RLChina 2025</strong>，会议程序主席。</span></span></li>
 </ul>
 
 <span class='anchor' id='-live'></span>
